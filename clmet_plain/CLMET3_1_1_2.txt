@@ -1,0 +1,4293 @@
+<id>2</id>
+<file>CLMET3_1_1_2.txt</file>
+<period>1710-1780</period>
+<quartcent>1700-1724</quartcent>
+<decade>1710s</decade>
+<year>1717</year>
+<genre>Drama</genre>
+<subgenre>drama</subgenre>
+<title>Three hours after marriage</title>
+<author>Gay, John</author>
+<gender>M</gender>
+<author_birth>1685</author_birth>
+<notes></notes>
+<source>http://www.gutenberg.org/cache/epub/37667/pg37667.txt</source>
+<downloaded>25-09-2012</downloaded>
+<comments></comments>
+
+<text>
+
+<p>
+Three Hours after
+</p>
+<p>
+MARRIAGE :
+</p>
+<p>
+A
+</p>
+<p>
+COMEDY .
+</p>
+<p>
+Rumpatur , quisquis rumpitur invidia .
+MART .
+</p>
+<p>
+ADVERTISEMENT .
+</p>
+<p>
+It may be necessary to acquaint the reader , that this play is printed exactly as it is acted .
+</p>
+<p>
+I must farther own the assistance I have receiv'd in this piece from two of my friends ; who , tho ' they will not allow me the honour of having their names join'd with mine , can not deprive me of the pleasure of making this acknowledgment .
+</p>
+<p>
+JOHN GAY .
+</p>
+<p>
+PROLOGUE
+</p>
+<p>
+Spoke by MR. WILKS .
+</p>
+<p>
+Authors are judg'd by strange capricious rules , The great ones are thought mad , the small ones fools .
+Yet sure the best are most severely fated , For fools are only laugh'd at , wits are hated , Blockheads with reason , men of sense abhor ; But fool ` gainst fool is barb ` rous civil war .
+Why on all authors then should critics fall ?
+Since some have writ , and shewn no wit at all .
+Condemn a play of theirs , and they evade it , Cry , damn not us , but damn the French that made it ; By running goods , these graceless owlers gain , Theirs are the rules of France , the plots of Spain : But wit , like wine , from happier climates brought , Dash'd by these rogues , turns English common draught : They pall Moliere 's and Lopez sprightly strain , And teach dull Harlequins to grin in vain .
+How shall our author hope a gentle fate , Who dares most impudently -- not translate .
+It had been civil in these ticklish times , To fetch his fools and knaves from foreign climes ; Spaniards and French abuse to the worlds ' end But spare old England , lest you hurt a friend .
+If any fool is by your satire bit , Let him hiss loud , to show you all -- he 's hit .
+Poets make characters as salesmen cloaths , We take no measure of your fops and beaus .
+But here all sizes and all shapes ye meet , And fit yourselves -- like chaps in Monmouth-street .
+</p>
+<p>
+Gallants look here , this [ B ] fool 's cap has an air -- Goodly and smart , -- with ears of Issachar .
+Let no one fool engross it , or confine : A common blessing !
+now 't is your 's , now mine .
+But poets in all ages , had the Care To keep this cap , for such as will , to wear ; Our author has it now , for ev'ry wit Of course resign'd it to the next that writ : And thus upon the stage 't is fairly [ C ] thrown , Let him that takes it , wear it for his own .
+</p>
+<p>
+[ B ] Shews a cap with ears .
+</p>
+<p>
+[ C ] Flings down the cap and
+</p>
+<p>
+Exit .
+</p>
+<p>
+Dramatis Personæ .
+</p>
+<p>
+MEN .
+</p>
+<p>
+FOSSILE , { Mr. Johnson .
+POSSUM , { Doctors .
+Mr. Corey .
+NAUTILUS , { Mr. Cross .
+PTISAN , Apothecary .
+Mr. Wright .
+PLOTWELL , Mr. Cibber .
+UNDERPLOT , Mr. Penkethman .
+Sir TREMENDOUS , Mr. Bowman .
+First PLAYER , Mr. Diggs .
+Second PLAYER , Mr. Watson .
+SAILOR .
+Mr. Bickerstaff .
+</p>
+<p>
+Footmen , Servants , &c..
+</p>
+<p>
+WOMEN .
+</p>
+<p>
+Mrs. TOWNLEY , Mrs. Oldfield .
+Mrs. PHOEBE CLINKET , Mrs. Bicknet .
+SARSNET , Mrs. Garnet .
+PRUE .
+Miss Willis .
+</p>
+<p>
+Three Hours after
+</p>
+<p>
+MARRIAGE :
+</p>
+<p>
+A
+</p>
+<p>
+COMEDY .
+</p>
+<p>
+ACT I .
+</p>
+<p>
+Enter FOSSILE , leading TOWNLEY .
+</p>
+<p>
+Fos .
+Welcome , my bride , into the habitation of thy husband .
+The scruples of the parson --
+</p>
+<p>
+Town .
+And the fatigue of the ceremony --
+</p>
+<p>
+Foss .
+Are at last well over .
+</p>
+<p>
+Town .
+These blank licences are wonderful commodious .
+-- The clergy have a noble command , in being rangers of the park of matrimony ; produce but a warrant , and they deliver a lady into your possession : but I have no quarrel with them , since they have put me into so good hands .
+</p>
+<p>
+Foss .
+I now proclaim a solemn suspension of arms between medicine and diseases .
+Let distempers suspend their malignant influence , and powders , pills , and potions their operations .
+Be this day sacred to my love .
+I had rather hold this hand of thine , than a dutchess by the pulse .
+</p>
+<p>
+Town .
+And I this , than a hand of matadores .
+</p>
+<p>
+Foss .
+Who knows but your relations may dispute my title to your person ?
+come , my dear , the seal of the matrimonial bond is consummation .
+</p>
+<p>
+Town .
+Alas !
+what will become of me !
+</p>
+<p>
+Foss .
+Why are thy eyes fix'd on the ground ?
+why so slow ?
+and why this trembling ?
+</p>
+<p>
+Town .
+Ah !
+heedless creature that I was , to quit all my relations , and trust myself alone in the hands of a strange man .
+</p>
+<p>
+Foss .
+Courage , thou best of my curiosities .
+Know that in husband , is comprehended all relations ; in me thou seest a fond father .
+</p>
+<p>
+Town .
+Old enough o ' my conscience .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+Foss .
+You may , you must trust yourself with me .
+</p>
+<p>
+Town .
+Do with me as you please : Yet sure you can not so soon forget the office of the church .
+Marriage is not to be undertaken wantonly , like brute beasts .
+If you will transgress , the sin be upon your own head .
+</p>
+<p>
+Foss .
+Great indeed is thy virtue , and laudable is thy modesty .
+Thou art a virgin , and I a philosopher ; but learn , that no animal action , quatenus animal , is unbecoming of either of us .
+But hold !
+where am I going ?
+Prithee , my dear , of what age art thou ?
+</p>
+<p>
+Town .
+Almost three and twenty .
+</p>
+<p>
+Foss .
+And I almost at my grand climacterick .
+What occasion have I for a double-night at these years ?
+She may be an Alcmena , but alas !
+I am no thunderer .
+</p>
+<p>
+[ Aside
+</p>
+<p>
+Town .
+You seem somewhat disturb'd ; I hope you are well , Mr. Fossile .
+</p>
+<p>
+Foss .
+What business have I in the bed-chamber , when the symptoms of age are upon me ?
+Yet hold , this is the famous corroborative of Crollius ; in this vial are included sons and daughters .
+Oh , for a draught of the aqua magnanimitatis for a vehicle !
+fifty drops of liquid laudanum for her dose would but just put us upon a par .
+Laudanum would settle the present ataxy of her animal spirits , and prevent her being too watchful .
+</p>
+<p>
+[ aside
+</p>
+<p>
+Enter a Servant .
+</p>
+<p>
+Serv .
+Sir , your pistachoe-porridge is ready .
+</p>
+<p>
+[ Exit .
+</p>
+<p>
+Foss .
+Now I think of it , my dear ; Venus , which is in the first degree of Capricorn , does not culminate till ten ; an hour if astrology is not fallible , successful in generation .
+</p>
+<p>
+Town .
+I am all obedience , Sir .
+</p>
+<p>
+Foss .
+How shall I reward thee for so much Goodness ?
+let our wedding as yet be a secret in the family .
+In the mean time I 'll introduce my niece Phoebe Clinket to your acquaintance : but alas , the poor girl has a procidence of the pineal gland , which has occasioned a rupture in her understanding .
+I took her into my house to regulate my oeconomy ; but instead of puddings , she makes pastorals ; or when she should be raising paste , is raising some ghost in a new tragedy .
+In short , my house is haunted by all the underling players , broken booksellers , half-voic'd singing-masters , and disabled dancing-masters in town .
+In a former will I had left her my estate ; but I now resolve that heirs of my own begetting shall inherit .
+Yonder she comes in her usual occupation .
+Let us mark her a while .
+</p>
+<p>
+Enter Clinket and her maid bearing a writing-desk on her back .
+Clinket writing , her head dress stain'd with ink , and pens stuck in her hair .
+</p>
+<p>
+Maid .
+I had as good carry a raree-show about the streets .
+Oh !
+how my back akes !
+</p>
+<p>
+Clink .
+What are the labours of the back to those of the brain ?
+thou scandal to the muses .
+I have now lost a thought worth a folio , by thy impertinance .
+</p>
+<p>
+Maid .
+Have not I got a crick in my back already , that will make me good for nothing , with lifting your great books ?
+</p>
+<p>
+Clink .
+Folio 's , call them , and not great books , thou monster of impropriety : But have patience , and I will remember the three gallery-tickets I promis'd thee at my new tragedy .
+</p>
+<p>
+Maid .
+I shall never get my head-cloaths clear-starch'd at this rate .
+</p>
+<p>
+Clink .
+Thou destroyer of learning , thou worse than a book-worm ; thou hast put me beyond all patience .
+Remember how my lyrick ode bound about a tallow-candle ; thy wrapping up snuff in an epigram ; nay , the unworthy usage of my hymn to Apollo , filthy creature !
+read me the last lines I writ upon the deluge , and take care to pronounce them as I taught you .
+</p>
+<p>
+Maid .
+</p>
+<p>
+Swell'd with a dropsy , sickly nature lies , And melting in a diabetes , dies .
+</p>
+<p>
+[ Reads with an affected tone .
+</p>
+<p>
+Clink .
+Still without cadence !
+</p>
+<p>
+Maid .
+Swell'd with a dropsy --
+</p>
+<p>
+Clink .
+Hold .
+I conceive --
+</p>
+<p>
+The roaring seas o'er the tall woods have broke , And whales now perch upon the sturdy oak .
+</p>
+<p>
+Roaring ?
+stay .
+Rumbling , roaring , rustling , no ; raging seas .
+</p>
+<p>
+[ Writing .
+</p>
+<p>
+The raging seas o'er the tall woods have broke , Now perch , thou whale , upon the sturdy oak .
+</p>
+<p>
+Sturdy oak ?
+no ; steady , strong , strapping , stiff .
+Stiff ?
+no , stiff is too short .
+</p>
+<p>
+FOSSILE and TOWNLEY come forward .
+</p>
+<p>
+What feast for fish !
+Oh too luxurious treat !
+When hungry dolphins feed on butchers meat .
+</p>
+<p>
+Foss .
+Niece , why niece , niece ?
+oh , Melpomene , thou goddess of tragedy , suspend thy influence for a moment , and suffer my niece to give me a rational answer .
+This lady is a friend of mine ; her present circumstances oblige her to take sanctuary in my house ; treat her with the utmost civility .
+Let the tea-table be made ready .
+</p>
+<p>
+Clink .
+Madam , excuse this absence of mind ; my animal spirits had deserted the avenues of my senses , and retired to the recesses of the brain , to contemplate a beautiful idea .
+I could not force the vagrant creatures back again into their posts , to move those parts of the body that express civility .
+</p>
+<p>
+Town .
+A rare affected creature this !
+if I mistake not , flattery will make her an useful tool for my purpose .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+[ Exeunt Townley , Clinket , and Maid .
+</p>
+<p>
+Foss .
+Her jewels , her strong box , and all her things left behind !
+if her uncle should discover her marriage , he may lay an embargo upon her goods .
+-- I 'll send for them .
+</p>
+<p>
+Enter a boy with a letter .
+</p>
+<p>
+Boy .
+This is the ho-ho-house .
+</p>
+<p>
+Foss .
+Child , whom dost thou want ?
+</p>
+<p>
+Boy .
+Mistress Townley 's ma-ma-maid .
+</p>
+<p>
+Foss .
+What is your business ?
+</p>
+<p>
+Boy .
+A l-l-letter .
+</p>
+<p>
+Foss .
+Who sent this letter ?
+</p>
+<p>
+Boy .
+O-o-one .
+</p>
+<p>
+Foss .
+Give it me , child .
+An honest boy .
+Give it me , and I 'll deliver it myself .
+A very honest boy .
+</p>
+<p>
+Boy .
+So .
+</p>
+<p>
+[ Exit boy .
+</p>
+<p>
+Foss .
+There are now no more secrets between us .
+Man and wife are one .
+</p>
+<p>
+` Madam , either I mistake the encouragement I have had , or I am to be happy to-night .
+I hope the same person will compleat her good offices : I stand to articles .
+The ring is a fine one ; and I shall have the pleasure of putting it on the first time . '
+</p>
+<p>
+This from your impatient , R. P .
+</p>
+<p>
+In the name of Beelzebub , what is this ?
+encouragement !
+happy to-night !
+same person !
+good offices !
+whom hast thou married , poor Fossile ?
+couldst thou not still divert thyself with the spoils of quarries and coal-pits , thy serpents and thy salamanders , but thou must have a living monster too !
+` sdeath !
+what a jest shall I be to our club !
+is there no rope among my curiosities ?
+shall I turn her out of doors , and proclaim my infamy ; or lock her up and bear my misfortunes ?
+lock her up !
+impossible .
+One may shut up volatile spirits , pen up the air , confine bears , lyons and tygers , nay , keep even your gold : but a wanton wife , who can keep ?
+</p>
+<p>
+Enter TOWNLEY .
+</p>
+<p>
+Town .
+Mrs. Clinket 's play is to be read this morning at the tea-table : will you come and divert yourself , Sir ?
+</p>
+<p>
+Foss .
+No : I want to be alone .
+</p>
+<p>
+Town .
+I hope my company is not troublesome already .
+I am as yet a bride ; not a wife .
+[ sighs . ]
+What means this sudden change ?
+[ Aside . ]
+Consider , Mr. Fossile , you want your natural rest : the bed would refresh you .
+Let me sit by you .
+</p>
+<p>
+Foss .
+My head akes , and the bed always makes it worse .
+</p>
+<p>
+Town .
+Is it hereabouts ?
+</p>
+<p>
+[ rubbing his temples .
+</p>
+<p>
+Foss .
+Too sure .
+</p>
+<p>
+[ Turns from her .
+</p>
+<p>
+Town .
+Why so fretful , Mr. Fossile ?
+</p>
+<p>
+Foss .
+No , I 'll dissemble my passion , and pump her .
+[ Aside . ]
+Excess of joy , my dear , for my good fortune overcomes me .
+I am somewhat vertiginous , I can hardly stand .
+</p>
+<p>
+Town .
+I hope I was ordain'd for thy support .
+</p>
+<p>
+Foss .
+My disorder now begins to dissipate : it was only a little flatulency , occasion'd by something hard of digestion .
+But pray , my dear , did your uncle shut you up so close from the conversation of mankind ?
+</p>
+<p>
+Town .
+Sarsnet and Shock were my only company .
+</p>
+<p>
+Foss .
+A very prudent young woman this Sarsnet ; she was undoubtedly a good and faithful friend in your solitude .
+</p>
+<p>
+Town .
+When it was her interest ; but I made no intimacies with my chamber-maid .
+</p>
+<p>
+Foss .
+But was there no lover offer'd his service to a lady in distress .
+</p>
+<p>
+Town .
+Tongue , be upon thy guard : these questions must be design'd to trap me .
+[ Aside . ]
+A woman of my condition ca n't well escape importunity .
+</p>
+<p>
+Foss .
+What was the name of that disagreeable fellow , who , you told me , teaz'd you so ?
+</p>
+<p>
+Town .
+His name ?
+I think he had a thousand names .
+In one letter he was Myrtillo , in another Corydon , Alexis , and I do n't know what .
+</p>
+<p>
+Enter SARSNET in haste to her mistress : He runs and embraces her with great earnestness .
+</p>
+<p>
+Foss .
+Dear Mrs. Sarsnet , how am I oblig'd to thee for thy services : thou hast made me happy beyond expression .
+-- I shall find another letter upon her .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+[ He gets his hand into Sarsnet 's pocket , as searching for a letter .
+</p>
+<p>
+[ Whenever Sarsnet goes to whisper her mistress , he gets between them .
+</p>
+<p>
+Enter PTISAN .
+</p>
+<p>
+Ptis .
+Mrs. Colloquintida complains still of a dejection of appetite ; she says that the genevre is too cold for her stomach .
+</p>
+<p>
+Foss .
+Give her a quieting draught ; but let us not interrupt one another .
+Good Mr. Ptisan , we are upon business .
+</p>
+<p>
+[ Fossile gets between Sarsnet and Townley .
+</p>
+<p>
+Ptis .
+The colonel 's spitting is quite suppress'd .
+</p>
+<p>
+Foss .
+Give him a quieting draught .
+Come to morrow , Mr. Ptisan ; I can see no body till then .
+</p>
+<p>
+Ptis .
+Lady Varnish finds no benefit of the waters ; for the pimple on the tip of her nose still continues .
+</p>
+<p>
+Foss .
+Give her a quieting draught .
+</p>
+<p>
+Ptis .
+Mrs. Prudentia 's tympany grows bigger and bigger .
+What , no pearl cordial !
+must I quiet them all ?
+</p>
+<p>
+Foss .
+Give them all quieting draughts , I say , or blister them all , as you please .
+Your servant Mr. Ptisan .
+</p>
+<p>
+Ptis .
+But then lady Giddy 's vapours .
+She calls her chamber-maids nymphs ; for she fancies herself Diana , and her husband Acteon .
+</p>
+<p>
+Foss .
+I can attend no patient till to morrow .
+Give her a quieting draught , I say .
+</p>
+<p>
+[ Whenever Fossile goes to conduct Ptisan to the door , Sarsnet and Townley attempt to whisper ; Fossile gets between them , and Ptisan takes that opportunity of coming back .
+</p>
+<p>
+Ptis .
+Then , sir , there is miss Chitty of the boarding-school has taken in no natural sustenance for this week , but a halfpeny worth of charcoal , and one of her mittens .
+</p>
+<p>
+Foss .
+Sarsnet , do you wait on Mr Ptisan to the door .
+To morrow let my patients know I 'll visit round .
+</p>
+<p>
+[ A knocking at the door .
+</p>
+<p>
+Ptis .
+Oh , Sir ; here is a servant of the countess of Hippokekoana .
+The emetick has over-wrought and she is in convulsions .
+</p>
+<p>
+Foss .
+This is unfortunate .
+Then I must go .
+Mr. Ptisan , my dear , has some business with me in private .
+Retire into my closet a moment , and divert yourself with the pictures .
+There lies your way , madam .
+</p>
+<p>
+[ To Sarsnet .
+</p>
+<p>
+[ Exit Townley at one door and Sarsnet at the other .
+</p>
+<p>
+Mr. Ptisan , pray , do you run before , and tell them I am just coming .
+</p>
+<p>
+[ Exit Ptisan .
+</p>
+<p>
+All my distresses come on the neck of one another .
+Should this fellow get to my bride before I have bedded her , in a collection of cuckolds , what a rarity should I make !
+what shall I do ?
+I 'll lock her up .
+Lock up my bride ?
+my pace and my honour demand it , and it shall be so .
+[ Locks the door . ]
+Thomas , Thomas !
+</p>
+<p>
+Enter footman .
+</p>
+<p>
+I dream 't last night I was robb'd .
+The town is over-run with rogues .
+Who knows but the rascal that sent the letter may be now in the house ?
+[ Aside . ]
+Look up the chimney , search all the dark closets , the coal hole , the flower-pots , and forget not the empty butt in the cellar .
+Keep a strict watch at the door , and let no body in till my return .
+</p>
+<p>
+[ Exit footman .
+A noise at the closet-door .
+</p>
+<p>
+( within . )
+Who 's there ?
+-- I 'm lock'd in .
+Murder !
+fire !
+</p>
+<p>
+Foss .
+Dear madam , I beg your pardon .
+</p>
+<p>
+[ Unlocks the door .
+Enter TOWNLEY . ]
+</p>
+<p>
+'T is well you call'd .
+I am so apt to lock this door ; an action meerly mechanical , not spontaneous .
+</p>
+<p>
+Town .
+Your conduct , Mr. Fossile , for this quarter of an hour has been somewhat mysterious .
+It has suggested to me what I almost blush to name ; your locking me up , confirms this suspicion .
+Pray speak plainly , what has caused this alteration ?
+</p>
+<p>
+[ Fossile shews her the letter .
+</p>
+<p>
+Is this all ?
+</p>
+<p>
+[ Gives him the letter back .
+</p>
+<p>
+Foss .
+( reads ) Either I mistake the encouragement I have had .
+What encouragement ?
+</p>
+<p>
+Town .
+From my uncle , -- if I must be your interpreter .
+</p>
+<p>
+Foss .
+Or I am to be happy to night .
+</p>
+<p>
+Town .
+To be married .
+-- If there can be happiness in that state .
+</p>
+<p>
+Foss .
+I hope the same person .
+</p>
+<p>
+Town .
+Parson .
+Only a word mis-pell'd .
+-- Here 's jealousy for you !
+</p>
+<p>
+Foss .
+Will compleat her good offices .
+A she-parson , I find !
+</p>
+<p>
+Town .
+He is a Welshman .
+And the Welsh always say her instead of his .
+</p>
+<p>
+Foss .
+I stand to articles .
+</p>
+<p>
+Town .
+Of jointure .
+</p>
+<p>
+Foss .
+The ring is a fine one , and I shall have the pleasure of putting it on my self .
+</p>
+<p>
+Town .
+Who should put on the wedding-ring but the bridegroom .
+</p>
+<p>
+Foss .
+I beseech thee , pardon thy dear husband .
+Love and jealousy are often companions , and excess of both had quite obnubilated the eyes of my understanding .
+</p>
+<p>
+Town .
+Barbarous man !
+I could forgive thee , if thou hadst poison'd my father , debauch'd my sister , kill'd my lapdog ; but to murder my reputation !
+</p>
+<p>
+[ Weeps .
+</p>
+<p>
+Foss .
+Nay , I beseech thee , forgive me .
+</p>
+<p>
+[ Kneels .
+</p>
+<p>
+Town .
+I do : but upon condition your jealous fit never returns .
+To a jealous man a whisper is evidence , and a dream demonstration .
+A civil letter makes him thoughtful , an innocent visit mad .
+I shall try you , Mr. Fossile ; for do n't think I 'll be deny'd company .
+</p>
+<p>
+Foss .
+Nay , prithee , my dear ; I own I have abused thee .
+But lest my marriage , and this simple story should take air in the neighbourhood , to morrow we will retire into the country together , till the secret is blown over .
+I am call'd to a patient .
+In less than half an hour I 'll be with you again , my dear .
+</p>
+<p>
+[ Exit Fossile .
+</p>
+<p>
+Town .
+Plotwell 's letter had like to have ruin'd me .
+'T was a neglect in me , not to intrust him with the secret of my marriage .
+A jealous bridegroom !
+every poison has its antidote ; as credulity is the cause , so it shall be the cure of his jealousy .
+To morrow I must be spirited away into the country ; I 'll immediately let Plotwell know of my distress : and this little time with opportunity , even on his wedding-day , shall finish him a compleat husband .
+Intrigue assist me !
+and I 'll act a revenge that might have been worthy the most celebrated wife in Boccace .
+</p>
+<p>
+Enter PLOTWELL and CLINKET .
+</p>
+<p>
+Hah !
+Plotwell !
+which way got he hither ?
+I must caution him to be upon his guard .
+</p>
+<p>
+Plot .
+Madam , I am agreeably surpriz'd to find you here .
+</p>
+<p>
+Town .
+Me , Sir ?
+you are certainly mistaken , for I do n't remember I ever saw you before .
+</p>
+<p>
+Plot .
+Madam , I beg your pardon .
+How like a truth sounds a lye from the tongue of a fine woman .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+Clink .
+This , Madam , is Mr. Plotwell ; a Gentleman who is so infinitely obliging , as to introduce my play on the theatre , by fathering the unworthy issue of my muse , at the reading it this morning .
+</p>
+<p>
+Plot .
+I should be proud , madam , to be a real father to any of your productions .
+</p>
+<p>
+Clink .
+Mighty just .
+Ha , ha , ha .
+You know , Mr. Plotwell , that both a parrot and a player can utter human sounds , but we allow neither of them to be a judge of wit .
+Yet some of those people have had the assurance to deny almost all my performances the privilege of being acted .
+Ah !
+what a Goût de travers rules the understanding of the illiterate !
+</p>
+<p>
+Plot .
+There are some , madam , that nauseate the smell of a rose .
+</p>
+<p>
+[ Whenever Plotwell and Townley endeavour to talk , she interrupts them .
+</p>
+<p>
+Clink .
+If this piece be not rais'd to the sublime , let me henceforth be stigmatiz'd as a reptile in the dust of mediocrity .
+I am persuaded , Sir , your adopted child will do you no dishonour .
+</p>
+<p>
+Town .
+Pray , madam , what is the subject ?
+</p>
+<p>
+Clink .
+Oh !
+beyond every thing .
+So adapted for tragical machines !
+so proper to excite the passions !
+not in the least encumber'd with episodes !
+the vraysemblance and the miraculous are linkt together with such propriety .
+</p>
+<p>
+Town .
+But the subject , madam ?
+</p>
+<p>
+Clink .
+The universal Deluge , I chose that of Deucalion and Pyrrha , because neither our stage nor actors are hallow'd enough for sacred story .
+</p>
+<p>
+Plot .
+But , madam --
+</p>
+<p>
+[ To Townley .
+</p>
+<p>
+Clink .
+What just occasion for noble description !
+these players are exceeding dilatory .
+</p>
+<p>
+-- In the mean time , Sir , shall I be oblig'd to you and this lady for the rehearsal of a scene that I have been just touching up with some lively strokes .
+</p>
+<p>
+Town .
+I dare assure you , madam , it will be a pleasure to us both .
+I 'll take this occasion to inform you of my present circumstances .
+</p>
+<p>
+[ To Plotwell .
+</p>
+<p>
+Clink .
+Imagine Deucalion and Pyrrha in their boat .
+They pass by a promontory , where stands prince Hæmon a former lover of Pyrrah 's , ready to be swallowed up by the devouring flood .
+She presses her husband to take him into the boat .
+Your part , Sir , is Hæmon ; the lady personates Pyrrha ; and I represent Deucalion .
+To you , Sir .
+</p>
+<p>
+[ Gives Plotwell the manuscript .
+</p>
+<p>
+Plot .
+What ho , there sculler !
+</p>
+<p>
+[ reads .
+</p>
+<p>
+Town .
+-- Hæmon !
+</p>
+<p>
+Plot .
+-- Yes , 't is Hæmon !
+</p>
+<p>
+Town .
+</p>
+<p>
+Thou seest me now sail'd from my former lodgings , Beneath a husband 's ark ; yet fain I would reward Thy proffer'd love .
+But Hæmon , ah , I fear Tomorrow 's eve will hide me in the country .
+</p>
+<p>
+Clink .
+Not a syllable in the part !
+wrong , all wrong !
+</p>
+<p>
+Plot .
+</p>
+<p>
+Through all the town , with diligent enquiries , I sought my Pyrrha --
+</p>
+<p>
+Clink .
+Beyond all patience !
+the part , Sir , lies before you ; you are never to perplex the drama with speeches extempore .
+</p>
+<p>
+Plot .
+Madam , 't is what the top players often do .
+</p>
+<p>
+Town .
+Though love denies , companion bids me save thee .
+</p>
+<p>
+[ Plotwell kisses her .
+</p>
+<p>
+Clink .
+Fye , Mr. Plotwell ; this is against all the decorum of the stage ; I will no more allow the libertinism of lip-embraces than the barbarity of killing on the stage ; your best tragedians , like the ladies of quality in a visit , never turn beyond the back-part of the cheek to a salute , as thus Mr. Plotwell .
+</p>
+<p>
+[ Kisses Plotwell .
+</p>
+<p>
+Plot .
+I do n't find in Aristotle any precept against killing .
+</p>
+<p>
+Clink .
+Yet I would not stand upon the brink of an indecorum .
+</p>
+<p>
+Plot .
+True , madam , the finishing stroke of love and revenge should never shock the eyes of an audience .
+But I look upon a kiss in a comedy to be upon a par with a box on the ear in a tragedy , which is frequently given and taken by your best authors .
+</p>
+<p>
+Clink .
+Mighty just !
+for a lady can no more put up a kiss than a gentleman a box on the ear .
+Take my muse , Sir , into your protection [ Gives him her play ] the players I see are here .
+Your personating the author will infallibly introduce my play on the stage , and spite of their prejudice , make the theatre ring with applause , and teach even that injudicious Canaille to know their own interest .
+</p>
+<p>
+Exit .
+</p>
+<p>
+ACT II .
+</p>
+<p>
+PLOTWELL , TOWNLEY , CLINKET , with Sir TREMENDOUS and two Players , discovered seated round a Table .
+</p>
+<p>
+Plot .
+Gentlemen , this lady who smiles on my performances , has permitted me to introduce you and my tragedy to her tea-table .
+</p>
+<p>
+Clink .
+Gentlemen , you do me honour .
+</p>
+<p>
+1st Play .
+Suffer us , Sir , to recommend to your acquaintance , the famous Sir Tremendous , the greatest critick of our age .
+</p>
+<p>
+Plot .
+Sir Tremendous , I rejoice at your presence ; though no lady that has an antipathy , so sweats at a cat as some authors at a critick .
+Sir Tremendous , madam , is a Gentleman who can instruct the town to dislike what has pleased them , and to be pleased with what they disliked .
+</p>
+<p>
+Sir Trem .
+Alas !
+what signifies one good palate when the taste of the whole town is viciated .
+There is not in all this Sodom of ignorance ten righteous criticks , who do not judge things backward ,
+</p>
+<p>
+Clink .
+I perfectly agree with Sir Tremendous : your modern tragedies are such egregious stuff , they neither move terror nor pity .
+</p>
+<p>
+Plot .
+Yes , madam , the pity of the audience on the first night , and the terror of the author for the third .
+Sir Tremendous 's plays indeed have rais'd a sublimer passion , astonishment .
+</p>
+<p>
+Clink .
+I perceive here will be a wit-combat between these beaux-esprits .
+Prue , be sure you set down all the similes .
+</p>
+<p>
+Prue retires to the back part of the stage with pen and ink .
+</p>
+<p>
+Sir Trem .
+The subjects of most modern plays are as ill chosen as --
+</p>
+<p>
+Plotw .
+The patrons of their dedications .
+</p>
+<p>
+[ Clink .
+makes signs to Prue .
+</p>
+<p>
+Sir Trem .
+Their plots as shallow --
+</p>
+<p>
+Plotw .
+As those of bad poets against new plays
+</p>
+<p>
+Sir Trem .
+Their episodes as little of a piece to the main action , as --
+</p>
+<p>
+Clink .
+A black gown with a pink-colour'd petticoat .
+Mark that , Prue .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+Sir Trem .
+Their sentiments are so very delicate --
+</p>
+<p>
+Plotw .
+That like whipt syllabub they are lost before they are tasted .
+</p>
+<p>
+Sir Trem .
+Their diction so low , that -- that --
+</p>
+<p>
+Plotw .
+Why , that their friends are forced to call it simplicity .
+</p>
+<p>
+1st Play .
+Sir to the play if you please .
+</p>
+<p>
+2d Play .
+We have a rehearsal this morning .
+</p>
+<p>
+Sir Trem .
+And then their thefts are so open --
+</p>
+<p>
+Plotw .
+that the very French taylors can discover them .
+</p>
+<p>
+Sir Trem .
+O what felony from the ancients !
+what petty larceny from the moderns !
+there is the famous Ephigenia of Racine , he stole his Agamemnon from Seneca , who stole it from Euripides , who stole it from Homer , who stole it from all the ancients before him .
+In short there is nothing so execrable as our most taking tragedies .
+</p>
+<p>
+1st Play .
+O !
+but the immortal Shakespeare , Sir .
+</p>
+<p>
+Sir Trem .
+He had no judgnent .
+</p>
+<p>
+2d Play .
+The famous ben Johmson !
+</p>
+<p>
+Clink .
+Dry .
+</p>
+<p>
+1st Play .
+The tender Otway !
+</p>
+<p>
+Sir Trem .
+Incorrect .
+</p>
+<p>
+2d Play .
+Etheridge !
+</p>
+<p>
+Clink .
+Mere chit-chat .
+</p>
+<p>
+1st Play .
+Dryden !
+</p>
+<p>
+Sir Trem .
+Nothing but a knack of versifying .
+</p>
+<p>
+Clink .
+Ah !
+dear Sir Tremendous , there is that delicatesse in your sentiments !
+</p>
+<p>
+Sir Trem .
+Ah madam !
+there is that justness in your notions !
+</p>
+<p>
+Clink .
+I am so much charm'd with your manly penetration !
+</p>
+<p>
+Sir Trem .
+I with your profound capacity !
+</p>
+<p>
+Clink .
+That I am not able --
+</p>
+<p>
+Sir Trem .
+That it is impossible --
+</p>
+<p>
+Clink .
+To conceive --
+</p>
+<p>
+Sir Trem .
+To express --
+</p>
+<p>
+Clink .
+With what delight I embrace --
+</p>
+<p>
+Sir Trem .
+With what pleasure I enter into --
+</p>
+<p>
+Clink .
+Your ideas , most learned Sir Tremendous !
+</p>
+<p>
+Sir Trem .
+Your sentiments , most divine Mrs. Clinket .
+</p>
+<p>
+2d Play .
+The play , for heaven 's sake , the play .
+</p>
+<p>
+[ A tea-table brought in . ]
+</p>
+<p>
+Clink .
+This finish'd drama is too good for an age like this .
+</p>
+<p>
+Plotw .
+The Universal Deluge , or the tragedy of Deucalion and Pyrrha .
+</p>
+<p>
+[ Reads
+</p>
+<p>
+Clink .
+Mr. Plotwell , I will not be deny'd the pleasure of reading it , you will pardon me .
+</p>
+<p>
+1st Play .
+The deluge !
+the subject seems to be too recherche .
+</p>
+<p>
+Clink .
+A subject untouch'd either by ancients or moderns , in which are terror and pity in perfection .
+</p>
+<p>
+1st Play .
+The stage will never bear it .
+Can you suppose , Sir , that a box of ladies will sit three hours to see a rainy day , and a feather in a storm ; make your best of it , I know it can be nothing else .
+</p>
+<p>
+2d Play .
+If you please , madam , let us hear how it opens .
+</p>
+<p>
+Clink .
+[ reads . ]
+The scene opens and discovers the heavens cloudy .
+A prodigious shower of rain .
+At a distance appears the top of the mountain Parnassus ; all the fields beneath are over-flowed ; there are seen cattle and men swimming .
+The tops of steeples rise above the flood , with men and women perching on their weathercocks --
+</p>
+<p>
+Sir Trem .
+Begging your pardon , Sir , I believe it can be proved , that weather-cocks are of a modern invention .
+Besides , if stones were dissolved , as a late philosopher hath proved , how could steeples stand ?
+</p>
+<p>
+Plot .
+I do n't insist upon trifles .
+Strike it out .
+</p>
+<p>
+Clink .
+Strike it out !
+consider what you do .
+In this they strike at the very foundation of the drama .
+Do n't almost all the persons of your second act start out of stones that Deucalion and Pyrrha threw behind them ?
+This cavil is levell'd at the whole system of the reparation of human race .
+</p>
+<p>
+1st Play .
+Then the shower is absurd .
+</p>
+<p>
+Clink .
+Why should not this gentleman rain , as well as other authors snow and thunder ?
+-- -- [ reads . ]
+Enter Deucalion in a sort of waterman 's habit , leading his wife Pyrrha to a boat -- Her first distress is about her going back to fetch a casket of jewels .
+Mind , how he imitates your great authors .
+The first speech has all the fire of Lee .
+</p>
+<p>
+Tho ' heav'n wrings all the sponges of the sky , And pours down clouds , at once each cloud a sea .
+Not the spring tides --
+</p>
+<p>
+Sir Trem .
+There were no spring tides in the Mediteranean , and consequently Deucalion could not make that simile .
+</p>
+<p>
+Clink .
+A man of Deucalion 's quality might have travelled beyond the Mediteranean , and so your objection is answered .
+Observe , Sir Tremendous , the tenderness of Otway , in this answer of Pyrrha .
+</p>
+<p>
+-------------------- Why do the stays Taper my waist , but for thy circling arms ?
+</p>
+<p>
+Sir Trem .
+Ah !
+Anachronisms !
+Stays are a modern habit , and the whole scene is monstrous , and against the rules of tragedy .
+</p>
+<p>
+Plot .
+I submit Sir , -- out with it .
+</p>
+<p>
+Clink .
+Were the play mine , you should gash my flesh , mangle my face , any thing sooner than scratch my play .
+</p>
+<p>
+Plot .
+Blot and insert wherever you please -- I submit myself to your judgment .
+</p>
+<p>
+Plotwell rises and discourses apart with Townley .
+</p>
+<p>
+Sir Trem .
+Madam , nonsense and I have been at variance from my cradle , it sets my understanding on edge .
+</p>
+<p>
+2d Play .
+Indeed , madam , with submission , and I think I have some experience of the stage , this play will hardly take .
+</p>
+<p>
+Clink .
+The worst lines of it would be sufficiently clapt , if it had been writ by a known author , or recommended by one .
+</p>
+<p>
+Sir Trem .
+Between you and I , madam , who understand better things , this gentleman knows nothing of poetry .
+</p>
+<p>
+1st Play .
+The gentleman may be an honest man , but he is a damn'd writer , and it neither can take , nor ought to take .
+</p>
+<p>
+Sir Trem .
+If you are the gentleman 's friend , and value his reputation , advise him to burn it .
+</p>
+<p>
+Clink .
+What struggles has an unknown author to vanquish prejudice !
+Suppose this play acts but six nights , his next may play twenty .
+Encourage a young author , I know it will be your interest .
+</p>
+<p>
+2d Play .
+I would sooner give five hundred pounds than bring some plays on the stage ; an audience little considers whether 't is the author or the actor that is hiss'd , our character suffers .
+</p>
+<p>
+1st Play .
+Damn our character -- We shall lose money by it .
+</p>
+<p>
+Clink .
+I 'll deposit a sum myself upon the success of it .
+Well , since it is to be play'd -- I will prevail upon him to strike out some few things .
+-- Take the play , Sir Tremendous .
+</p>
+<p>
+Sir Tremendous reads in a muttering tone .
+</p>
+<p>
+Sir Trem .
+Absurd to the last degree [ strikes out . ]
+palpable nonsense !
+[ strikes out . ]
+</p>
+<p>
+Clink .
+What all those lines !
+spare those for a lady 's sake , for those indeed , I gave him .
+</p>
+<p>
+Sir Trem .
+Such stuff !
+[ strikes out . ]
+abominable !
+[ strikes out . ]
+most execrable !
+</p>
+<p>
+1st Play .
+This thought must out .
+</p>
+<p>
+2d Play .
+Madam , with submission , this metaphor .
+</p>
+<p>
+1st Play .
+This whole speech .
+</p>
+<p>
+Sir Trem .
+The Fable !
+</p>
+<p>
+Clink .
+To you I answer , --
+</p>
+<p>
+1st Play .
+The characters !
+</p>
+<p>
+Clink .
+To you I answer --
+</p>
+<p>
+Sir Trem .
+The diction !
+</p>
+<p>
+Clink .
+And to you -- Ah , hold , hold , -- I 'm butcher'd , I 'm massacred .
+For mercy 's sake !
+murder , murder !
+ah !
+</p>
+<p>
+[ faints .
+</p>
+<p>
+Enter Fossile peeping at the door .
+</p>
+<p>
+Foss .
+My house turn'd to a stage !
+and my bride playing her part too !
+What will become of me ?
+but I 'll know the bottom of all this , [ aside . ]
+I am surprized to see so many patients here so early .
+What is your distemper , Sir ?
+</p>
+<p>
+1st Play .
+The cholic , Sir , by a surfeit of green tea and damn'd verses .
+</p>
+<p>
+Foss .
+Your pulse is very high , madam .
+[ To Townley . ]
+You sympathize , I perceive , for yours is somewhat feverish .
+[ To Plotwell . ]
+But I believe I shall be able to put off the fit for this time .
+And as for you , niece , you have got the poetical itch , and are possess'd with nine devils , your nine muses ; and thus I commit them and their works to the flames .
+[ Takes up a heap of papers and flings them into the fire . ]
+</p>
+<p>
+Clink .
+Ah !
+I am an undone woman .
+</p>
+<p>
+Plot .
+Has he burnt any bank-bills , or a new Mechlin head-dress ?
+</p>
+<p>
+Clink .
+My works !
+my works !
+</p>
+<p>
+1st Play .
+Has he destroyed the writings of an estate , or your billet doux ?
+</p>
+<p>
+Clink .
+A Pindarick ode !
+five similes !
+and half an epilogue !
+</p>
+<p>
+2d Play .
+Has he thrown a new fan or your pearl necklace into the flames ?
+</p>
+<p>
+Clink .
+Worse , worse !
+The tag of the acts of a new comedy !
+a prologue sent by a person of quality three copies of recommendatory verses !
+and two Greek mottos !
+</p>
+<p>
+Foss .
+Gentlemen , if you please to walk out .
+</p>
+<p>
+2d Play .
+You shall have our positive answer concerning your tragedy , madam , in an hour or two .
+</p>
+<p>
+[ Exit Sir Tremendous , Plotwell and Players .
+</p>
+<p>
+Foss .
+Though this affair looks but ill ; yet I will not be over-rash : What says Lybanius ? '
+A false accusation often recoils upon the accuser ; ' and I have suffered already by too great precipitation .
+</p>
+<p>
+[ Exit Fossile .
+</p>
+<p>
+Enter SARSNET .
+</p>
+<p>
+Town .
+A narrow escape , Sarsnet !
+Plotwells letter was intercepted and read by my husband .
+</p>
+<p>
+Sars .
+I tremble every joint of me .
+How came you off ?
+</p>
+<p>
+Town .
+Invention flow'd , I ly'd , he believ'd .
+True wife , true husband !
+</p>
+<p>
+Sars .
+I have often warned you , madam , against this superfluity of gallants ; you ought at least to have clear'd all mortgages upon your person before you leas'd it out for life .
+Then , besides Plotwell , you are every moment in danger of Underplot , who attends on Plotwell like his shadow ; he is unlucky enough to stumble upon your husband , and then I 'm sure his shatterbrains would undo us at once .
+</p>
+<p>
+Town .
+Thy wit and industry , Sarsnet , must help me out .
+To day is mine , to morrow is my husband 's .
+</p>
+<p>
+Sars .
+But some speedy method must be thought of , to prevent your letters from falling into his hands .
+</p>
+<p>
+Town .
+I can put no confidence in my landlady Mrs. Chambers , since our quarrel at parting .
+So I have given orders to her maid to direct all letters and messages hither , and I have plac'd my own trusty servant Hugh at the door to receive them -- but see , yonder comes my husband , I 'll retire to my closet .
+</p>
+<p>
+[ Exit Townley and Sarsnet .
+</p>
+<p>
+Enter FOSSILE .
+</p>
+<p>
+Foss .
+O marriage , thou bitterest of potions , and thou strongest of astringents .
+This Plotwell that I found talking with her must certainly be the person that sent the letter .
+But if I have a Bristol stone put upon me instead of a diamond , why should I by experiments spoil its lustre ?
+She is handsome , that is certain .
+Could I but keep her to myself for the future !
+Cuckoldom is an accute case , it is quickly over ; when it takes place , it admits of no remedy but palliatives .
+-- Be it how it will , while my marriage is a secret --
+</p>
+<p>
+Within .
+Bless the noble doctor Fossile and his honourable lady .
+The city musick are come to wish him much joy of his marriage .
+[ A flourish of fiddles .
+</p>
+<p>
+Foss .
+Joy and marriage ; never were two words so coupled .
+</p>
+<p>
+Within .
+Much happiness attend the learned doctor Fossile and his worthy and virtuous lady .
+The drums and trumpets of his majesty 's guards are come to salute him --
+</p>
+<p>
+[ A flourish of Drums and Trumpets .
+</p>
+<p>
+Foss .
+Ah , Fossile !
+wretched Fossile !
+into what state hast thou brought thy self !
+thy disgrace proclaim'd by beat of drum !
+New married men are treated like those bit by a Tarantula , both must have musick : But where are the notes that can expell a wife !
+</p>
+<p>
+Exit .
+</p>
+<p>
+ACT III .
+</p>
+<p>
+Enter FOSSILE in a footman 's cloaths ,
+</p>
+<p>
+Foss .
+A Special dog ; this footman of my wife 's !
+as mercenary as the porter of a first minister !
+Why should she place him as a centinal at my door ?
+unquestionably , to carry on her intrigues .
+Why did I bribe him to lend me his livery ?
+to discover those intrigues .
+And now , O wretched Fossile , thou hast debas'd thyself into the low character of a footman .
+What then ?
+gods and demi gods have assum'd viler shapes : they , to make a cuckold ; I , to prove myself one .
+Why then should my metamorphosis be more shameful , when my purpose is more honest ?
+</p>
+<p>
+[ Knocking at the door , enter footman . ]
+</p>
+<p>
+Foot .
+Ay , this is her livery .
+Friend , give this to your mistress .
+</p>
+<p>
+[ Gives a letter to Fossile and exit . ]
+</p>
+<p>
+Fossile .
+[ reads ]
+</p>
+<p>
+` Madam , you have jilted me .
+What I gave you cost me dear ; what you might have given me , would have cost you nothing .
+You shall use my next present with more respect .
+I presented you a fine snuff-box ; you gave it to that coxcomb Underplot , and Underplot gave it to my wife .
+Judge of my surprise .
+</p>
+<p>
+` Freeman . '
+</p>
+<p>
+A fine circulation of a snuff-box !
+in time I shall have the rarest of my shells set off with gold hinges , to make presents to all the fops about town .
+My Conchæ Veneris ; and perhaps , even my Nautilus .
+</p>
+<p>
+A knocking at the door .
+Enter an old woman .
+</p>
+<p>
+Old Wom .
+Can I speak with your good mistress , honest friend ?
+</p>
+<p>
+Fos .
+No , she 's busy .
+</p>
+<p>
+Old Wom .
+Madam Wyburn presents her service and has sent this letter .
+</p>
+<p>
+[ Exit .
+</p>
+<p>
+Fossile .
+[ reads ]
+</p>
+<p>
+` Being taken up with waiting upon merchants ladies this morning , I have sent to acquaint you , my dear sweet Mrs. Townley , that the alderman agrees to every thing but putting away his wife , which he says is not decent at that end of the town .
+He desires a meeting this evening . '
+</p>
+<p>
+Postscript .
+</p>
+<p>
+` He does not like the grocer 's wife at all . '
+</p>
+<p>
+Bless me !
+what a libidinous age we live in !
+neither his own wife !
+nor the grocer 's wife !
+Will people like nobody 's wife but mine !
+</p>
+<p>
+[ Knocking at the door .
+Enter footman , gives a letter , and exit . ]
+</p>
+<p>
+Enter another footman gives a letter , and exit .
+</p>
+<p>
+Foss .
+[ reads ]
+</p>
+<p>
+` Sincerely , madam , I can not spare that sum ; especially in monthly payments .
+My good friend and neighbour Pinch , a quiet sober man , is content to go a third part , only for leave to visit upon sabbath days .
+</p>
+<p>
+` Habakkuk Plumb . '
+</p>
+<p>
+Well , frugallity is laudable even in iniquity !
+Now for this other .
+</p>
+<p>
+Opens the second letter .
+</p>
+<p>
+Foss .
+[ reads ]
+</p>
+<p>
+` Madam , I ca n't make you rich , but I can make you immortal .
+</p>
+<p>
+Verses on Mrs. Susanna Townley , in the front box dress'd in green .
+</p>
+<p>
+In you the beauties of the spring are seen , Your cheeks are roses , and your dress is green .
+</p>
+<p>
+A poor dog of a poet !
+I fear him not .
+</p>
+<p>
+Enter a ragged fellow with a letter .
+</p>
+<p>
+Foot .
+My master is at present under a cloud -- He begs you will deliver this letter to your lady .
+</p>
+<p>
+[ Exit .
+</p>
+<p>
+Foss .
+[ reads ]
+</p>
+<p>
+' I am reduced by your favours to ask the thing I formerly deny'd ; that you would entertain me as a husband , who can no longer keep you as a mistress .
+</p>
+<p>
+` Charles Bat . '
+</p>
+<p>
+Why did I part with this fellow ?
+This was a proposal indeed , to make both me and himself happy at once !
+He shall have her , and a twelve-month 's fees into the bargain .
+Where shall I find him ?
+-- Why was the mistress of all mankind unknown to thee alone ?
+Why is nature so dark in our greatest concerns ?
+Why are there no external symptoms of defloration , nor any pathognomick of the loss of virginity but a big belly ?
+Why has not lewdness its tokens like the plague ?
+Why must a man know rain by the aking of his corns , and have no prognostick of what is of infinitely greater moment , cuckoldom ?
+Or if there are any marks of chastity , why is the enquiry allowed only to Turks and Jews , and denyed to Christians ?
+O Townley , Townley !
+once to me the fragrant rose ; now aloes , wormwood and snake-root !
+but I must not be seen .
+</p>
+<p>
+As Townley and Sarsnet enter , Fossile sneaks off .
+</p>
+<p>
+Town .
+Sarsnet , we are betray'd .
+I have discovered my husband posted at the door in Hugh 's livery , he has intercepted all my letters .
+I immediately writ this , which is the only thing that can bring us off .
+Run this moment to Plotwell , get him to copy it , and send it directed to me by his own servant with the utmost expedition .
+He is now at the chocolate-house in the next street .
+</p>
+<p>
+Sars .
+I fly , madam ; but how will you disengage yourself from the affair with Underplot ?
+</p>
+<p>
+Town .
+Leave it to me .
+Though he wants sense , he 's handsome , and I like the fellow ; and if he is lucky enough to come in my husband 's absence .
+-- But prithee Sarsenet make haste .
+</p>
+<p>
+[ Exit Townley and Sarsenet , upon which Fossile re-enters , to him Underplot . ]
+</p>
+<p>
+Underp .
+Harke'e , friend .
+I never talk with one of your coat , but I first tip him .
+</p>
+<p>
+Foss .
+Behold the lucre of a pimp !
+Between the pox abroad , and my plague at home , I find a man may never want fees .
+[ aside . ]
+Your honour 's commands , I pray .
+I long to serve you .
+</p>
+<p>
+Underp .
+Ah , boy !
+thou hast a rare mistress for vails .
+Come I know thou art a sly dog ; can ` st thou introduce me to her for a moment 's conversation ?
+</p>
+<p>
+Foss .
+Impossible .
+</p>
+<p>
+Underp .
+What , still impossible ?
+</p>
+<p>
+[ Gives more money .
+</p>
+<p>
+Foss .
+Still impossible .
+</p>
+<p>
+Underp .
+Poh , pox .
+But prithee , friend , by the by , is there any thing in this report that she is marry'd to the doctor here ?
+</p>
+<p>
+Foss .
+I am afraid there is something in it .
+</p>
+<p>
+Underp .
+What a spirit does a jealous husband give to an intrigue !
+Pray , is he not a most egregious silly animal ?
+</p>
+<p>
+Foss .
+Not exceeding wise indeed ,
+</p>
+<p>
+Underp , Rich ?
+</p>
+<p>
+Foss .
+He has money .
+</p>
+<p>
+Underp .
+That will save the expence of her gallants .
+Old ?
+</p>
+<p>
+Foss .
+Ay , too old , heaven knows .
+</p>
+<p>
+Underp .
+How came it into the puppy 's head to marry ?
+</p>
+<p>
+Foss .
+By the instigation of Satan .
+</p>
+<p>
+Underp .
+I 'll help the old fool to an heir .
+</p>
+<p>
+Foss .
+No doubt o n't .
+If the whole town can do it , he will not want one .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+Underp .
+Come , prithee deal freely with me , Has Plotwell been here since the wedding ?
+</p>
+<p>
+Foss .
+He has !
+too sure : [ aside . ]
+He 's a dangerous rival to you ; if you have a mind to succeed , keep a strict watch upon him , that he may not get admittance before you .
+</p>
+<p>
+Underp .
+Well since thou hast shown thyself so much my friend , I 'll let thee into a secret .
+Plotwell and I no sooner heard of the wedding , but we made a bett of a hundred guineas , who should dub the doctor first .
+Remember you go twenty pieces with me .
+</p>
+<p>
+Foss .
+But here is some body coming .
+Away you are sure of my interest .
+</p>
+<p>
+[ Exit Underplot .
+</p>
+<p>
+Foss .
+This was well judg'd .
+I have a small territory coveted by two rival potentates .
+It is profound policy to make them watch one the other , and so keep the ballance of power in my own hands .
+Certainly nothing so improves one 's politicks , as to have a coquet to on ` es wife ,
+</p>
+<p>
+Enter a footman with a letter ,
+</p>
+<p>
+Foot .
+This is for your lady , Deliver it safe into her own hands .
+</p>
+<p>
+[ Exit Footman .
+</p>
+<p>
+Fos .
+[ reads . ]
+</p>
+<p>
+` Know , cruel woman , I have discovered the secret of your marriage ; you shall have all the plague of a jealous husband , without the pleasure of giving him cause .
+I have this morning counterfeited billetdoux and letters from bawds ; nay , I have sent pimps ; some of which , I hope , are fallen into your old coxcomb 's hands .
+If you deny me the pleasure of tipping him a real cuckold , at least , I 'll have the resentment to make him an imaginary one .
+Know that this is not the hundredth part of the revenge that shall be executed upon thee , by R. P. '
+</p>
+<p>
+Town .
+[ peeping . ]
+So .
+The letter works as I would have it .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+Foss .
+How true is that saying of the philosopher !
+` We only know , that we know nothing . '
+The eruption of those horns which seem'd to make so strong a push is now suppress'd .
+Is the mystery of all these letters nothing but the revenge of a disappointed lover ?
+The hand and seal are just the same with the Welchman 's that I intercepted a while ago .
+Truly , these Welch are a hot revengeful people .
+My wife may be virtuous ; she may not .
+Prevention is the safest method with diseases and intrigues .
+Women are wanton , husbands weak , bawds busy , opportunities dangerous , gallants eager ; therefore it behoves honest men to be watchful .
+But here comes my Wife , I must hide myself ; for should I be detected , she might have a just cause of complaint for my impertinent curiosity .
+</p>
+<p>
+Exit Fossi .
+</p>
+<p>
+Enter TOWNLEY ; and to her SARSNET at the other door .
+</p>
+<p>
+Sars .
+Your orders , madam , have been executed to a tittle , and I hope with success .
+</p>
+<p>
+Town .
+Extremely well .
+Just as we could have wish'd .
+But I ca n't forgive that rascal Hugh .
+To turn him away would be dangerous .
+We will rather take the advantage of the confidence my husband has in him .
+Leave the husband to me , and do you discipline the footman .
+Such early curiosity must be crush'd in the bud .
+Hugh , Hugh , Hugh .
+[ calls aloud , and rings . ]
+What is become of the rogue ?
+</p>
+<p>
+[ Townley runs in , and drags out Fossile changing his cloaths with Hugh .
+</p>
+<p>
+Why sirrah !
+must one call all day for you ?
+</p>
+<p>
+[ cuffs him .
+</p>
+<p>
+Sars .
+This is not Hugh , madam ; a rouge in disguise , got in to rob the house !
+thieves , thieves !
+</p>
+<p>
+Enter CLINKET , PRUE with the writing-desk , and servants
+</p>
+<p>
+Foss .
+St. St -- no noise .
+Prithee , dearee , look upon me .
+See , see , thy own dear husband .
+It is I .
+</p>
+<p>
+Town .
+What an unfortunate woman am I !
+Could not you pass one day without an intrigue ?
+and with a cookwench too !
+for you could put on a livery for no other end .
+You wicked man .
+</p>
+<p>
+Sars .
+His coldness , madam , is now no longer a mystery .
+Filthy monster !
+wer 't not thou provided with my mistress as a remedy for thy rampant unchastity ?
+</p>
+<p>
+Town .
+Was all your indeffierence to me for this !
+you brute you .
+</p>
+<p>
+[ weeps .
+</p>
+<p>
+Foss .
+Nay , prithee , dearee , judge not rashly .
+My character is establish'd in the world .
+There lives not a more sober , chaste , and virtuous person than doctor Fossile .
+</p>
+<p>
+Town .
+Then why this disguise ?
+</p>
+<p>
+Foss , Since it must come out ; ha , ha , ha , only a frolick on my wedding day between Hugh and I .
+We had a mind to exhibit a little mummery .
+</p>
+<p>
+Clink .
+What joy arises in my soul to see my uncle in a dramatick character !
+Since your humour lead you to the drama , uncle , why would you not consult a relative muse in your own family ?
+I have always used you as my physician ; and why should not you use me as your poet ?
+</p>
+<p>
+Foss , Prithee , dear , leave me a moment .
+This is a scandal to my gravity .
+I 'll be with you , as my self , immediately .
+</p>
+<p>
+[ Exeunt omnes , except Fossile and Hugh .
+As they are changing habits , Fossile says ,
+</p>
+<p>
+As a mark of my confidence in thee , I leave thee guardian of my house while I go my rounds .
+Let none in but patients ; wan sickly fellows , no person in the least degree of bodily strength .
+</p>
+<p>
+Hugh .
+Worthy doctor , you may rely upon my honour .
+</p>
+<p>
+Exit Fos .
+</p>
+<p>
+I have betray'd my mistress .
+My conscience flies in my face , and I can ease it noway but by betraying my master .
+</p>
+<p>
+Knocking at the door .
+</p>
+<p>
+This is not the doctor ; but he is dress'd like him , and that shall be my excuse .
+</p>
+<p>
+[ He lets Plotwell in , Townley meets him , they embrace .
+</p>
+<p>
+Town .
+Hugh , go , wait at the door .
+</p>
+<p>
+[ Exit Hugh .
+</p>
+<p>
+Plotw .
+This disguise gives spirit to my intrigue .
+Certainly I am the first person that ever enjoy'd a bride without the scandal of matrimony .
+</p>
+<p>
+Town .
+I have a different relish , Mr. Plotwell , for now I ca n't abide you , you are so like my husband .
+</p>
+<p>
+Plotw .
+Underplot , I defy thee .
+I have laid the wager , and now I hold the stakes .
+</p>
+<p>
+Town .
+Opportunity Mr. Potwell , has been the downfall of much virtue .
+</p>
+<p>
+[ As he is leading her off , enter Hugh .
+</p>
+<p>
+Hugh .
+Ah , madam !
+the doctor !
+the doctor !
+</p>
+<p>
+Exit Hugh .
+</p>
+<p>
+Plot .
+Fear nothing .
+I 'll stand it .
+I have my part ready .
+</p>
+<p>
+[ Exit Townley .
+</p>
+<p>
+Enter FOSSILE .
+</p>
+<p>
+Foss .
+I promised lady Langfort my eagle-stone .
+The poor lady is like to miscarry , and 't is well I thought o n't .
+Ha !
+who is here !
+I do not like the aspect of the fellow .
+But I will not be over censorious .
+</p>
+<p>
+[ They make many bows and cringes in advancing to each other .
+</p>
+<p>
+Plot .
+Illustrissime domine , huc adveni --
+</p>
+<p>
+Foss .
+Illustrissime domine -- non usus , sum loquere Latinum -- If you can not speak English , we can have no lingual conversation .
+</p>
+<p>
+Plot .
+I can speak but a little Englise .
+Me ave great deal heard of de fame of de great luminary of all arts and sciences , de illustrious doctor Fossile .
+I would make commutation ( what do you call it ) I would exchange some of my tings for some of his tings .
+</p>
+<p>
+Foss .
+Pray , Sir , what university are you of ?
+</p>
+<p>
+Plot .
+De famous university of Cracow in Polonia minor .
+I have cured de king of Sweden of de wound .
+My name be doctor Cornelius Lubomirski .
+</p>
+<p>
+Foss .
+Your Lubomirskis are a great family .
+But what Arcana are you master of , Sir ?
+</p>
+<p>
+Plot .
+[ Shows a large snuff-box . ]
+See dere , Sir , dat box de snuff .
+</p>
+<p>
+Foss .
+Snuff-box .
+</p>
+<p>
+Plot .
+Right .
+Snuff-box .
+Dat be de very true gold .
+</p>
+<p>
+Foss .
+What of that ?
+</p>
+<p>
+Plot .
+Vat of dat ?
+me make dat gold my own self , of de lead of de great church of Crawcow .
+</p>
+<p>
+Foss .
+By what operations ?
+</p>
+<p>
+Plot .
+By calcination ; reverberation ; purification ; sublimation ; amalgamation ; precipitation ; volitilization .
+</p>
+<p>
+Foss .
+Have a care what you assert .
+The volitilization of gold is not an obvious process .
+It is by great elegance of speech called , fortitudo fortitudinis fortissima .
+</p>
+<p>
+Plot .
+I need not acquaint de illustrious doctor Fossile , dat all de metals be but unripe gold .
+</p>
+<p>
+Foss .
+Spoken like a philosopher , And therefore there should be an act of parliament against digging of lead mines , as against felling young timber .
+But inform me , Sir , what might be your menstruum , snow-water , or May-dew ?
+</p>
+<p>
+Plot .
+Snow-vater .
+</p>
+<p>
+Foss .
+Right .
+Snow is the universal pickle of nature for the preservation of her productions in the hyemal season .
+</p>
+<p>
+Plot .
+If you will go your self , and not trust de servant , to fetch some of de right Thames sand dat be below de bridge , I will show you de naked Diana in your study before I go hence .
+</p>
+<p>
+Foss .
+Perhaps you might .
+I am not at present dispos'd for experiments .
+</p>
+<p>
+Plot .
+This bite wont take to send him out of the way , I 'll change my subject .
+[ Aside . ]
+Do you deal in longitudes , Sir ?
+</p>
+<p>
+Foss .
+I deal not in impossibilities .
+I search only for the grand elixir .
+</p>
+<p>
+Plot .
+Vat do you tink of de new metode of fluxion ?
+</p>
+<p>
+Foss .
+I know no other but my mercury .
+</p>
+<p>
+Plot .
+Ha , ha .
+Me mean de fluxion of de quantity .
+</p>
+<p>
+Foss .
+The greatest quantity I ever knew , was three quarts a day .
+</p>
+<p>
+Plot .
+Be dere any secret in the hydrology , zoology , minerology , hydraulicks , acausticks , pneumaticks , logarithmatechny , dat you do want de explanation of ?
+</p>
+<p>
+Foss .
+This is all out of my way .
+Do you know of any hermaphrodites , monstrous twins , antediluvivian shells , bones , and vegetables ?
+</p>
+<p>
+Plot .
+Vat tink you of an antediluvian knife , spoon , and fork , with the mark of Tubal Cain in Hebrew , dug out of the mine of Babylon ?
+</p>
+<p>
+Foss .
+Of what dimensions , I pray , Sir ?
+</p>
+<p>
+Plot .
+De spoon be bigger dan de modern ladle ; de fork , like de great fire-fork ; and de knife , like de cleaver .
+</p>
+<p>
+Foss .
+Bless me !
+this shows the stature and magnitude of those antidiluvians !
+</p>
+<p>
+Plot .
+To make you convinced that I tell not de lie , dey are in de Turkey ship at Vapping , just going to be disposed of .
+Me would go there vid you , but de businss vil not let me .
+</p>
+<p>
+Foss .
+An extraordinary man this !
+I 'll examine him further .
+[ Aside . ]
+How could your country lose so great a man as you ?
+</p>
+<p>
+Plot .
+Dat be de secret .
+But because me vil have de fair correspondence with de illustrious doctor Fossile , me vil not deny dat Orpheus and me had near run de same fate for different reason .
+I was hunted out of my country by de general insurrection of de women .
+</p>
+<p>
+Foss .
+How so pray ?
+</p>
+<p>
+Plot .
+Because me have prepare a certain liquor which discover whether a woman be a virgin or no .
+</p>
+<p>
+Foss .
+A curious discovery !
+have you any of it still ?
+</p>
+<p>
+Plot .
+Dere it is , Sir .
+It be commonly called de Lapis Lydius Virginitatis , or touch-stone of virginity .
+</p>
+<p>
+[ gives him a vial .
+</p>
+<p>
+Foss .
+It has the smell of your common hart 's - horn .
+But all your volatile spirits have a near resemblance .
+</p>
+<p>
+Plot .
+Right , Sir .
+De distillation be made from the Hippomanes of a young mare .
+When a deflower'd virgin take ten drops , she will faint and sneeze , and de large red spot appear on the cheek ; which we call de spot of infamy .
+All de young bridegroom make de experiment .
+De archbishop did make obligation to de nun to take it every ninth month .
+And I fly for the hurlyburly it make .
+</p>
+<p>
+Enter HUGH .
+</p>
+<p>
+Hugh .
+Sir here is a patient in a chair .
+</p>
+<p>
+Foss .
+Doctor Lubomirski , let me conduct you into my study , where we will farther discuss the wonderful virtues of this liquor .
+Tell the patient I will attend him this instant .
+</p>
+<p>
+[ Exeunt Plotwell and Fossile .
+</p>
+<p>
+Enter UNDERPLOT in a chair like a sick man .
+</p>
+<p>
+Hugh .
+The doctor will wait upon you immediately .
+</p>
+<p>
+[ Exit Hugh .
+</p>
+<p>
+Underp .
+I dogg'd Plotwell to this door in a doctor 's habit .
+If he has admittance as a doctor , why not I as a patient ?
+Now for a lucky decision of our wager !
+If I ca n't succeed myself , I will at least spoil his intrigue .
+</p>
+<p>
+Enter FOSSILE .
+</p>
+<p>
+Underp .
+Ah !
+ah !
+have you no place ?
+Ah !
+where can I repose a little ?
+I was taken suddenly .
+Ah !
+ah !
+'t is happy I was so near the house of an eminent physician .
+</p>
+<p>
+Foss .
+Rest yourself upon that couch .
+</p>
+<p>
+Underp .
+If I lay a few minutes cover'd up warm in a bed , I believe I might recover .
+</p>
+<p>
+[ Fossile feels his pulse .
+Plotwell peeps .
+</p>
+<p>
+Plot .
+Underplot in disguise !
+I 'll be his doctor , and cure him of these frolicks .
+</p>
+<p>
+[ aside .
+</p>
+<p>
+Foss .
+What are your symptoms , Sir ?
+a very tempestuous pulse , I profess !
+</p>
+<p>
+Underp .
+Violent head-ach , ah !
+ah !
+</p>
+<p>
+Foss .
+All this proceeds from the fumes of the kitchen , the stomachic digester wants reparation for the better concoction of your aliment : But , Sir , is your pain pungitive , tensive , gravitive , or pulsatory ?
+</p>
+<p>
+Plot .
+All together , ah !
+</p>
+<p>
+Foss .
+Impossible Sir ; but I have an eminent physician now in the house , he shall consult .
+Doctor Lubomirski , here is a person in a most violent cephalalgy , a terrible case !
+</p>
+<p>
+Enter PLOTWELL .
+</p>
+<p>
+Foss .
+Feel his pulse .
+[ Plotwell feels it . ]
+You feel it , Sir , strong , hard and labouring .
+</p>
+<p>
+Plot .
+Great plenitude , Sir .
+</p>
+<p>
+Foss .
+Feel his belly , Sir ; a great tension and heat of the abdomen -- A hearty man , his muscles are torose ; how soon are the strongest humbled by diseases !
+let us retire , and consult .
+</p>
+<p>
+Enter SARSNET in haste .
+</p>
+<p>
+Sars .
+My mistress approves your design , bear it out bravely , perhaps I shall have a sudden opportunity of conveying you into her bed-chamber , counterfeit a fainting fit and rely upon me .
+</p>
+<p>
+[ Exit .
+</p>
+<p>
+Underp .
+As yet I find I am undiscover'd by Plotwell ; neither is his intrigue in such forwardness as mine , though he made a fair push for it before me .
+</p>
+<p>
+[ aside .
+</p>
+<p>
+[ Fossile and Plotwell come forward .
+</p>
+<p>
+Foss .
+I am entirely for a glister .
+</p>
+<p>
+Plot .
+My opinion is for de strong vomit .
+</p>
+<p>
+Foss .
+Bleed him .
+</p>
+<p>
+Plot .
+Make de searrification , give me de lancet , me will do it myself , and after dat will put de blister to de sole of de feet ,
+</p>
+<p>
+Foss .
+Your dolor proceeds from a frigid intemperies of the brain , a strong disease !
+the enemy has invaded the very citadel of your microcosm , the magazine of your vital functions ; he has set down before it ; yet there seems to be a good garrison of vital spirits , and we do n't question to be able to defend it .
+</p>
+<p>
+Plot .
+Ve will cannonade de enemy with pills , bombard him wid de bolus , blow him up with volatiles , fill up the trenches wid de large innundation of apozems , and dislodge him wid de stink pot ; let de apotecary bring up de artillery of medicine immediately .
+</p>
+<p>
+Foss .
+True , we might unload the stomach by gentle emeticks , and the intestines by clysters stimulative , carminative , and emollient , with strong hydroticks , quiet the spasms of the viscera by paregoricks , draw off the stagnant blood by deep scarrifications , and depurate its fæculencies by volatiles ; after this , let there be numerous blisters and potential cauteries -- I consult my patient 's ease ; I am against much physick -- He faints , he is apoplectic , bleed him this moment .
+</p>
+<p>
+Plot .
+Hoy de servant dere , make hast , bring de pan of hot coals ; or de red hot iron to make application to de temples .
+</p>
+<p>
+Enter HUGH .
+</p>
+<p>
+Hugh .
+Here 's the poker red hot from the fire .
+</p>
+<p>
+Plot .
+Very well make de burn dere , exactly dere .
+</p>
+<p>
+[ putting the poker near his head .
+</p>
+<p>
+Underp .
+Hold , hold , am I to be murder'd ?
+[ starts up . ]
+I know you , Plotwell , and was I not oblig'd by honour and friendship , I 'd expose you to the doctor .
+</p>
+<p>
+[ aside to Plotwell .
+</p>
+<p>
+Plot .
+Very lunatick , mad , fetch me de cord to make de tie upon de leg and de arm , take off thirty ounces of blood , and den plunge him into de cold bath .
+</p>
+<p>
+Foss .
+Your judgment , doctor Lubomirski , is excellent , I will call my servants to assist us .
+</p>
+<p>
+Underp .
+Hearke'e , old put ; I came to take your advice , and not that French son of a whore 's scarrifications ; and so plague take you both .
+</p>
+<p>
+[ Exit Underplot and Hugh .
+</p>
+<p>
+ACT IV .
+</p>
+<p>
+Enter Dr. FOSSILE , and PLOTWELL .
+</p>
+<p>
+Foss .
+Doctor Lubomirski , this vial that you have intrusted into my custody , shall be with acknowledgment return'd after a few experiments ; I must crave your indulgence ; diseases , you know , Sir , are impertinent , and will tie themselves to no hours , poor lady Hyppokekoana !
+</p>
+<p>
+Plot .
+Ah Sir !
+I beg your pardon , if you make visit to de patient , me will divert myself in your study till you make return .
+</p>
+<p>
+Foss .
+That can not be , I have a lady just coming to consult me in a case of secrecy .
+</p>
+<p>
+Plot .
+Have you not de wife ?
+me will make conversation wid de ladies till you come .
+</p>
+<p>
+Foss .
+They see no company in the morning , they are all in deshabilleé ; most learned doctor Lubomirski , your humble servant .
+</p>
+<p>
+Plot .
+Most illustrious doctor Fossile , me be , with de profoundest adoration
+</p>
+<p>
+Foss .
+With the greatest admiration
+</p>
+<p>
+Plot .
+Your most humble
+</p>
+<p>
+Foss .
+Most obedient servant .
+</p>
+<p>
+Plot .
+Ah , Monsieur , point de ceremonie .
+</p>
+<p>
+[ Exit Plotwell .
+</p>
+<p>
+Enter HUGH .
+</p>
+<p>
+Foss .
+Hugh , bring me a pint of sack ; let your mistress know I want to see her .
+Take care that her orders be obey'd , and that her trunks and boxes be immediately brought hither .
+Sarset will give you directions .
+</p>
+<p>
+[ Exit Hugh .
+Fossile sits down on a couch .
+</p>
+<p>
+Ah Fossile !
+if the cares of two hours of a married life have so reduc'd thee , how long can ` st thou hold out !
+to watch a wife all day , and have her wake thee all night !
+` twill never do .
+The fitigue of three fevers , six small poxes , and five great ones , is nothing to that of one wife .
+Now for my touch-stone ; I will try it upon her presently .
+If she bear it to day -- I am afraid she will bear it to morrow too .
+</p>
+<p>
+Enter Hugh with a bottle of sack , and after him Townley .
+Hugh gives the bottle and glass to Fossile and exit .
+</p>
+<p>
+Sit down by me , my dear , I was going to refresh myself with a glass of canary .
+You look pale .
+It will do you good .
+</p>
+<p>
+Town .
+Faugh .
+Wine in the morning !
+</p>
+<p>
+[ Fossile drinks and fills again , and drops some of the liquor into the glass . ]
+</p>
+<p>
+What is the meaning of this ?
+am I to be poison'd .
+</p>
+<p>
+[ aside .
+</p>
+<p>
+Foss .
+You must drink it .
+Sack is sacred to Hymen ; of it is made the nuptial posset .
+</p>
+<p>
+Town .
+Do n't press me , Mr. Fossile , I nauseate it .
+It smells strangely .
+There is something in it .
+</p>
+<p>
+Foss .
+An ill symptom !
+she ca n't bear the smell .
+[ aside . ]
+Pray , my dear , oblige me .
+</p>
+<p>
+Town .
+I 'm for none of your flops .
+I 'll fill myself .
+</p>
+<p>
+Foss .
+I must own , I have put some restorative drops in it , which are excellent .
+I may drink it safely .
+[ aside . ]
+[ drinks . ]
+The next glass I prepare for you .
+</p>
+<p>
+[ Fills , and powers some drops in .
+</p>
+<p>
+[ Townley drinks .
+Fossile runs behind to support her ; then pores upon her cheek , and touches it with his finger .
+</p>
+<p>
+Town .
+Your insolence is insupportable .
+'T was but this moment you suspected my virtue ; and now my complexion .
+Put on your spectacles .
+No red was ever laid upon these cheeks .
+I 'll fly thee , and die a maid , rather than live under the same roof with jealousy and caprice .
+</p>
+<p>
+Foss .
+O thou spotless innocence !
+I can not refrain tears of joy .
+Forgive me , and I 'll tell thee all .
+These drops have been a secret in our family for many years .
+They are call'd the touch-stone of virginity .
+The males administer it to the brides on their wedding-day ; and by its virtue have ascertain'd the honour of the Fossiles from generation to generation .
+There are family customs , which it is almost impious to neglect .
+</p>
+<p>
+Town .
+Had you married a person of doubtful reputation -- But me , Mr. Fossile !
+</p>
+<p>
+Foss .
+I did not indeed suspect thee .
+But my mother obliged me to this experiment with her dying words -- My wife is chaste : And to preserve her so , 't is necessary that I have none but chaste servants about her .
+I 'll make the experiment on all my female domesticks .
+[ aside . ]
+I will now , my dear , in thy presence , put all my family to the trial .
+Here !
+bid my niece , and all the maid-servants come before me .
+</p>
+<p>
+[ Calling out .
+</p>
+<p>
+Enter Clinket , Prue , and Servants .
+</p>
+<p>
+Give ear , all ye virgins : We make proclamation in the name of the chaste Diana , being resolv'd to make a solemn essay of the virtue , virginity , and chastity of all within our walls .
+We therefore advise , warn and precaution all spinsters , who know themselves blemish'd , not on any pretence whatsoever to taste these our drops , which will manifest their shame to the world by visible tokens .
+</p>
+<p>
+Clink .
+I abominate all kind of drops .
+They interrupt the series of ideas .
+But have the any power over the virgin 's dreams , thoughts , and private meditations ?
+</p>
+<p>
+Foss .
+No .
+They do not affect the motus Primo-primi , or intentions ; only actualities , niece .
+</p>
+<p>
+Clink .
+Then give it me .
+I can drink as freely of it as of the waters of Helicon .
+My love was always Platonick .
+</p>
+<p>
+[ drinks .
+</p>
+<p>
+Foss .
+Yet I have known a Platonick lady lodge at a mid wife 's .
+</p>
+<p>
+[ Fossile offers it round . ]
+</p>
+<p>
+1st Wom .
+I never take physick .
+</p>
+<p>
+Foss .
+That 's one .
+Stand there .
+My niece professes herself a Platonick .
+You are rather a Cartesian .
+</p>
+<p>
+Clink .
+Ah dear uncle !
+how do the Platonicks and Cartesians differ .
+</p>
+<p>
+Foss .
+The Platonicks are for idea 's , the Cartesians for matter and motion .
+</p>
+<p>
+Town .
+Mr. Fossile , you are too severe .
+</p>
+<p>
+2d Wom .
+I am not a-dry .
+</p>
+<p>
+[ curtsies .
+</p>
+<p>
+Foss .
+There 's two .
+Stand there .
+</p>
+<p>
+Prue .
+My mistress can answer for me .
+She has taken it .
+</p>
+<p>
+Foss .
+She has .
+But however stand there , among the Cartesians .
+</p>
+<p>
+3d Wom .
+My innocence would protect me , though I trod over red-hot iron .
+Give me a brimmer .
+</p>
+<p>
+[ She takes a mouthful and spits it out again . ]
+</p>
+<p>
+Foss .
+'T was a presumptuous thing to gargle with it : but however , madam , if you please -- walk among the Cartesians .
+</p>
+<p>
+[ Two young wenches run away .
+</p>
+<p>
+Clink .
+Prue , follow me .
+I have just found a rhime for my Pindarick .
+</p>
+<p>
+[ They all sneak off .
+</p>
+<p>
+Fos .
+All gone !
+what no more ladies here ?
+no more ladies !
+[ looking to the audience , ] O that I had but a boarding-school , or a middle gallery !
+</p>
+<p>
+Enter Sarsnet , follow'd by two porters bearing a chest .
+</p>
+<p>
+Set down the things here : there is no occasion for carrying them up stairs , since they are to be sent into the country to morrow .
+</p>
+<p>
+[ Exit porters .
+</p>
+<p>
+What have I done ?
+My marriage , these confounded whimsies , and doctor Lubomirski , have made me quite forget poor lady Hippokekoana .
+She was in convulsions , and I am afraid dead by this time .
+</p>
+<p>
+[ Exit Fossile .
+</p>
+<p>
+Sars .
+I have brought you a present , madam , make good use of it .
+So I leave you together .
+</p>
+<p>
+[ Exit Sarsnet .
+</p>
+<p>
+[ Townley opens the chest : Plotwell , who was cover'd with a gown and petticoat , gets out . ]
+</p>
+<p>
+Town .
+Never was any thing so lucky .
+The doctor is just this minute gone to a patient .
+</p>
+<p>
+Plot .
+I tempt dangers enough in your service .
+I am almost crippled in this chest-adventure .
+Oh my knees !
+Prithee , my dear , lead me to a bed where I may strech myself out .
+</p>
+<p>
+[ Leading her off .
+</p>
+<p>
+Enter SARSNET .
+</p>
+<p>
+Sars .
+Oh madam !
+yonder is the doctor in deep discourse with Underplot : I fear he has dogg'd me , and betray'd us .
+The are both coming back together .
+</p>
+<p>
+[ Exit Sarsnet .
+</p>
+<p>
+Plot .
+I 'll shrink snug into my shell again .
+</p>
+<p>
+Town .
+That he may directly pop upon you .
+The trunk will be the first place he will examine , have you no presence of mind ?
+You sit for an intrigue !
+</p>
+<p>
+Plot .
+What shall I do ?
+</p>
+<p>
+Town .
+Fear not , you shall be invisible i th is very spot .
+</p>
+<p>
+Plot .
+What do you mean ?
+he 's just at the door .
+You intend to discover me .
+</p>
+<p>
+Town .
+Mistrust me not : You shall walk out before his face at that very door , though he bring in a hundred spies , and not one of them shall perceive you .
+</p>
+<p>
+Plot .
+Do n't trifle .
+Are you mad ?
+[ knocking at the door . ]
+Nay , now 't is too late .
+</p>
+<p>
+Town .
+Arm thyself with flounces , and fortify thyself with whalebone ; enter beneath the cupulo of this petticoat .
+</p>
+<p>
+Plot .
+The best security in the world !
+an old fellow has seldom any thing to do beneath that circumferance .
+</p>
+<p>
+Town .
+No more but under it immediately .
+</p>
+<p>
+[ Plotwell goes under it .
+</p>
+<p>
+Thus Venus , when approaching foes assail , Shields her AEÆneas with a silken veil .
+</p>
+<p>
+Enter FOSSILE .
+</p>
+<p>
+Town .
+O my dear you come opportunely .
+How do you like my fancy in this new petticoat ?
+there is something in it so odd !
+</p>
+<p>
+Fos .
+You have another in your chest much odder .
+I want to see that .
+</p>
+<p>
+Town .
+How jaunty the flounces !
+</p>
+<p>
+Fos .
+Ay , 't is plain she would lure me from the chest ; there I shall find him .
+</p>
+<p>
+[ aside .
+</p>
+<p>
+Town .
+The lace !
+the fringe !
+</p>
+<p>
+Fos .
+All this is nothing to the embroider'd sattin .
+Prithee , my dear , give me the key .
+</p>
+<p>
+Town .
+Sure never was any thing so prettily disposed .
+Observe but the air of it : So degagee !
+But the lining is so charming .
+</p>
+<p>
+[ She walks to the door , and Fossile to the trunk .
+Plotwell kisses her out of the top of the petticoat , and then goes off . ]
+</p>
+<p>
+[ As Fossile is cautiously opening the trunk with his sword drawn , Townley comes up to him . ]
+</p>
+<p>
+What , more of your frolicks , Mr. Fossile .
+What time of the moon is this ?
+</p>
+<p>
+Fos .
+This Underplot is a confounded villain , he would make me jealous of an honest civil gentleman , only for an opportunity to cuckold me himself .
+[ aside . ]
+Come , my dear , forget all that is past .
+I know -- I have proved thee virtuous .
+But prithee , love , leave me a moment ; I expect some Egyptian rarities .
+</p>
+<p>
+[ Exeunt severally .
+</p>
+<p>
+ACT V .
+</p>
+<p>
+Enter FOSSILE with a vial in his hand .
+</p>
+<p>
+Fos .
+This is all we have for the flying dragon so celebrated by antiquity .
+A cheap purchase !
+It cost me but fifteen guineas .
+But the Jew made it up in the butterfly and the spider .
+</p>
+<p>
+Enter two porters bearing a Mummy .
+</p>
+<p>
+Oh !
+here 's my mummy .
+Set him down .
+I am in haste .
+Tell captain Bantam , I 'll talk with him at the coffee-house .
+</p>
+<p>
+[ Exit porters .
+</p>
+<p>
+Enter two porters bearing an Alligator .
+</p>
+<p>
+A most stupendous animal !
+set him down .
+</p>
+<p>
+[ Exit porters .
+</p>
+<p>
+Poor lady Hippokekoana 's convulsions !
+I believe there is fatality in it , that I can never get to her .
+Who can I trust my house to in my absence ?
+Were my wife as chaste as Lucretia , who knows what an unlucky minute may bring forth !
+In cuckoldom , the art of attack is prodigiously improved beyond the art of defence .
+So far it is manifest , Underplot has a design upon my honour .
+For the ease of my mind , I will lock up my wife in this my musæum , 'till my return .
+</p>
+<p>
+Enter TOWNLEY , and SARSNET .
+</p>
+<p>
+You will find something here , my dear , to divert yourself .
+</p>
+<p>
+Town .
+I hate the sight of these strange creatures ; but since I am Mr. Fossiles wife , I shall endeavour to conquer my aversion .
+</p>
+<p>
+Foss .
+Thou may ` st safely be here to day , my dear ; to-morrow thou shouldst no more enter this room than a pest-house .
+'T is dangerous for women that are impregnated .
+But poor lady Hippokekoana suffers all this while .
+</p>
+<p>
+[ Exit Fossile with a key in his hand .
+</p>
+<p>
+Town .
+Since he has lock'd me in , to be even with him , I 'll bolt him out .
+</p>
+<p>
+[ Plotwell dress'd like a Mummy , comes forward .
+</p>
+<p>
+Plot .
+</p>
+<p>
+Thus trav ` ling far from his Egyptian tomb , Thy Anthony salutes his Cleopatra .
+</p>
+<p>
+Town .
+</p>
+<p>
+Thus Cleopatra , in desiring arms , Receives her Anthony -- But prithee dear pickled Hieroglyphic , who so suddenly could assist thee with this shape .
+</p>
+<p>
+Plot .
+The play-house can dress mummies , bears , lions , crocodiles , and all the monsters of Lybia .
+My arms madam are ready to break their past-board prison to embrace you .
+</p>
+<p>
+Town .
+Not so hasty .
+Stay till the jealous fool is out of sight .
+</p>
+<p>
+Plot .
+Our ill stars , and the devil , have brought him back so often
+</p>
+<p>
+Town .
+He can never parry this blow , nor grow jealous of his mummy .
+A mummy is his intimate friend .
+</p>
+<p>
+Plot .
+And a man can not easily be cuckolded by any body else .
+</p>
+<p>
+Town .
+Here may ` st thou remain the ornament of his study , and the support of his old age .
+Thou shalt divert his company and be a father to his children .
+I will bring thee legs of pullets , remnants of tarts , and fragments of desarts .
+Thou shalt be fed like Bell and the Dragon .
+</p>
+<p>
+Plot .
+But madam ; before you entertain me as your mummy in ordinary , you ought to be acquainted with my abilities to discharge that office .
+Let me slip off this habit of death , you shall find I have some symptoms of life .
+-- Thus Jove within the milk-white swan compress'd his Leda .
+</p>
+<p>
+[ Underplot in the Alligator crawls forward , then rises up and embraces her . ]
+</p>
+<p>
+Underp .
+</p>
+<p>
+Thus Jove within the serpents scaly folds , Twin'd round the Macedonian queen ,
+</p>
+<p>
+Town .
+Ah !
+</p>
+<p>
+[ shrieks .
+</p>
+<p>
+Plot .
+Fear not , madam .
+This is my evil genius Underplot that still haunts me .
+How the devil got you here ?
+</p>
+<p>
+Underp .
+Why should not the play-house lend me a crocodile as well as you a mummy ?
+</p>
+<p>
+Town .
+How unlucky is this !
+[ Aside . ]
+Nay , I do n't know but I may have twenty lovers in this collection .
+You snakes , sharks , monkeys , and mantygers , speak , and put in your claim before it is too late .
+</p>
+<p>
+Underp .
+Mr. Mummy , your humble servant ; the lady is pre-engag'd .
+</p>
+<p>
+Plot .
+Pray , Mr. Crocodile , let the lady make her own choice .
+</p>
+<p>
+Underp .
+Crocodile as I am , I must be treated with common humanity .
+You ca n't , madam , disown the message you sent me .
+</p>
+<p>
+Town .
+Well !
+ye pair of Egyptian lovers , agree this matter between you , and I will acquit myself like a person of honour to you both .
+</p>
+<p>
+Plot .
+Madam !
+If I do n't love you above all your sex , may I be banish'd the studies of virtuoso 's ; and smoak'd like dutch beef in a chimney --
+</p>
+<p>
+Underp .
+If I do n't love you more than that stale mummy , may I never more be proclaim'd at a show of monsters , by the sound of a glass-trumpet .
+</p>
+<p>
+Plot .
+May I be sent to ` Pothecary 's - hall , and beat up into venice treacle for the fleet and the army , if this heart --
+</p>
+<p>
+Underp .
+May I be stuff'd with straw , and given to a mountebank , if this soul --
+</p>
+<p>
+Plot .
+Madam I am a human creature .
+Taste my balsamick kiss .
+</p>
+<p>
+Underp .
+A lover in swadling-clouts !
+What is his kiss , to my embrace ?
+</p>
+<p>
+Plot .
+Look upon me , madam .
+See how I am embroider'd with hieroglyphicks .
+</p>
+<p>
+Underp .
+Consider my beautiful row of teeth .
+</p>
+<p>
+Plot .
+My balmy breath .
+</p>
+<p>
+Underp .
+The strong joints of my back .
+</p>
+<p>
+Plot .
+My erect stature .
+</p>
+<p>
+Underp .
+My long tail .
+</p>
+<p>
+Town .
+Such a contest of beauty !
+How shall I decide it ?
+</p>
+<p>
+Plot .
+Take me out of my shell , madam , and I 'll make you a present of the kernel .
+</p>
+<p>
+Underp .
+Then I must be upon a level with him , and be uncrocodil'd .
+</p>
+<p>
+Town .
+Keep both of you your shapes , and we are in no fear of a surprize from the doctor : If you uncase , his presence would undo us .
+Sure never was any thing so unlucky -- I hear his foot-steps ; quick to your posts .
+</p>
+<p>
+[ Mummy and Crocodile run to their places .
+</p>
+<p>
+Enter FOSSILE , Dr. Nautilus , and Dr. Possum .
+</p>
+<p>
+Naut .
+Much joy to the learned Dr. Fossile .
+To have a mummy , an alligator , and a wife , all in one day , is too great happiness for mortal man !
+</p>
+<p>
+Poss .
+This an alligator !
+Alack a day , brother Nautilus , this is a mere lizard , an eft , a shrimp to mine .
+</p>
+<p>
+Naut .
+How improving would it be to the female understanding , if the closets of the ladies were furnish'd , or , as I may say , ornamented and embellish'd with preserv'd butterflies , and beautiful shells , instead of China jars , and absurd Indian pictures .
+</p>
+<p>
+Town .
+Now for a stratagem to bring off my unsuccessful pair of gallants .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+[ Exit Townley .
+</p>
+<p>
+Foss .
+Ah , Dr. Nautilus , how have I languish'd for your feather of the bird Porphyrion !
+</p>
+<p>
+Naut .
+But your dart of the Mantichora !
+</p>
+<p>
+Foss .
+Your haft of the antediluvian trowel , unquestionably the tool of one of the Babel masons !
+</p>
+<p>
+Naut .
+What 's that to your fragment of Seth 's pillar ?
+</p>
+<p>
+Poss .
+Gentlemen , I affirm I have a greater curiosity than all of them .
+I have an entire leaf of Noah 's journal aboard the ark , that was hewen out of a porphyry pillar in Palmyra .
+</p>
+<p>
+[ Fossile opens the case of the mummy .
+</p>
+<p>
+Naut .
+By the formation of the muscular parts of the visage , I conjecture that this mummy is male .
+</p>
+<p>
+Pos .
+Male , brother !
+I am sorry to observe your ignorance of the symetry of a human body .
+Do but observe the projection of the hip ; besides , the bloom upon the face ; 't is a female beyond all contradiction .
+</p>
+<p>
+Fos .
+Let us have no rash dispute , brothers ; but proceed methodically -- Behold the vanity of mankind !
+[ pointing to the mummy . ]
+Some Ptolemy perhaps !
+--
+</p>
+<p>
+Naut .
+Who by his pyramid and pickle thought to secure to himself death immortal .
+</p>
+<p>
+Fos .
+His pyramid , alas !
+is now but a wainscot case .
+</p>
+<p>
+Pos .
+And his pickle can scarce raise him to the dignity of a collar of brawn .
+</p>
+<p>
+Fos .
+Pardon me , Dr. Possum : The musæum of the curious is a lasting monument .
+And I think it no degradation to a dead person of quality , to bear the rank of an anatomy in the learned world .
+</p>
+<p>
+Naut .
+By your favour , Dr. Possum , a collar of brawn !
+I affirm , he is better to be taken inwardly than a collar of brawn .
+</p>
+<p>
+Fos .
+An excellent medicine !
+he is hot in the first-degree , and exceeding powerful in some diseases of women .
+</p>
+<p>
+Naut .
+Right , Dr. Fossile ; for your Asphaltion .
+</p>
+<p>
+Pos .
+Pice-Asphaltus , by your leave .
+</p>
+<p>
+Naut .
+By your leave , doctor Possum , I say , Asphaltion .
+</p>
+<p>
+Pos .
+And I positively say , Pice-Asphaltus .
+</p>
+<p>
+Naut .
+If you had read Dioscorides or Pliny --
+</p>
+<p>
+Poss .
+I have read Dioscorides .
+And I do affirm Pice-Asphaltus .
+</p>
+<p>
+Foss .
+Be calm , Gentlemen .
+Both of you handle this argument with great learning , judgment , and perspicuity .
+For the present , I beseech you to concord , and turn your speculations on my alligator .
+</p>
+<p>
+Poss .
+The skin is impenetrable even to a sword .
+</p>
+<p>
+Naut .
+Dr. Possum I will show you the contrary .
+</p>
+<p>
+[ Draws his sword .
+</p>
+<p>
+Poss .
+In the mean time I will try the mummy with this knife , on the point of which you shall smell the pitch , and be convinc'd that it is the Pice-Asphaltus .
+</p>
+<p>
+[ Takes up a rusty knife .
+</p>
+<p>
+Foss .
+Hold , Sir : You will not only deface my mummy , but spoil my Roman sacrificing-knife .
+</p>
+<p>
+Enter TOWNLEY .
+</p>
+<p>
+Town .
+I must lure them from this experiment , or we are discover'd .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+[ She looks through a telescope .
+</p>
+<p>
+What do I see !
+most prodigious !
+a star as broad as the moon in the day-time !
+</p>
+<p>
+[ The doctors go to her .
+</p>
+<p>
+Poss .
+Only a halo about the sun , I suppose .
+</p>
+<p>
+Naut .
+Your suppositions , doctor , seem to be groundless .
+Let me make my observation .
+</p>
+<p>
+[ Nautilus and Possum struggle to look first .
+</p>
+<p>
+Town .
+Now for your escape :
+</p>
+<p>
+[ To Plotwell and Underplot .
+</p>
+<p>
+[ They run to the door , but find it lock'd .
+</p>
+<p>
+Underp .
+What an unlucky dog I am !
+</p>
+<p>
+Town .
+Quick .
+Back to your posts .
+Do n't move , and rely upon me .
+I have still another artifice .
+</p>
+<p>
+[ They run back to their places .
+</p>
+<p>
+[ Exit Townley .
+</p>
+<p>
+Naut .
+I can espy no celestial body but the sun .
+</p>
+<p>
+Poss .
+Brother Nautilus , your eyes are somewhat dim ; your sight is not fit for astronomical observations .
+</p>
+<p>
+Foss .
+Is the focus of the glass right ?
+hold gentlemen , I see it ; about the bigness of Jupiter .
+</p>
+<p>
+Naut .
+No phenomenon offers itself to my speculation .
+</p>
+<p>
+Poss .
+Point over yonder chimney .
+Directly south .
+</p>
+<p>
+Naut .
+Thitherward , begging your pardon , Dr. Possum , I affirm to be the north .
+</p>
+<p>
+Foss .
+East .
+</p>
+<p>
+Poss .
+South .
+</p>
+<p>
+Naut .
+North .
+Alas !
+what an ignorant thing is vanity !
+I was just making a reflection on the ignorance of my brother Possum , in the nature of the crocodile .
+</p>
+<p>
+Poss .
+First , brother Nautilus , convince yourself of the composition of the mummy .
+</p>
+<p>
+Naut .
+I will insure your alligator from any damage .
+His skin I affirm once more to be impenetrable .
+</p>
+<p>
+[ draws his sword .
+</p>
+<p>
+Poss .
+I will not deface any hieroglyphick .
+</p>
+<p>
+[ Goes to the mummy with the knife .
+</p>
+<p>
+Foss .
+I never oppose a luciferous experiment .
+It is the beaten highway to truth .
+</p>
+<p>
+[ Plotwell and Underplot leap from their places ; the doctors are frighted . ]
+</p>
+<p>
+Foss .
+Speak , I conjure thee .
+Art thou the ghost of some murder'd Egyptian monarch ?
+</p>
+<p>
+Naut .
+A rational question to a mummy !
+But this monster can be no less than the devil himself , for crocodiles do n't walk .
+</p>
+<p>
+Enter TOWNLEY and CLINKET .
+</p>
+<p>
+[ Townley whispers Clinket .
+</p>
+<p>
+Foss .
+Gentlemen , wonder at nothing within these walls ; for ever since I was married , nothing has happen'd to me in the common course of human life .
+</p>
+<p>
+Clink .
+Madam , without a compliment , you have a fine imagination .
+The masquerade of the mummy and crocodile is extremely just ; I would not rob you of the merit of the invention , yet since you make me the compliment , I shall be proud to take the whole contrivance of this masquerade upon myself .
+[ To Townley . ]
+Sir , be acquainted with my masqueraders .
+</p>
+<p>
+[ To Fossile .
+</p>
+<p>
+Foss .
+Thou female imp of Appollo , more mischievous than Circe , who fed gentlemen of the army in a hog 's - stye !
+What mean you by these gambols ?
+this mummy , this crocodile ?
+</p>
+<p>
+Clink .
+Only a little mummery , uncle ?
+</p>
+<p>
+Fos .
+What an outragious conceit is this !
+had you contented yourself with the metamorphosis of Jupiter , our skill in the classicks might have prevented our terror .
+</p>
+<p>
+Clink .
+I glory in the fertility of my invention the more , that it is beyond the imagination of a pagan deity .
+Besides , it is form'd upon the vraysemblance ; for I know you had a mummy and a crocodile to be brought home .
+</p>
+<p>
+Fos .
+Dr. Nautilus is an infirm tender gentleman ; I wish the sudden concussion of his animal spirits may not kindle him into a fever .
+I myself , I must confess , have an extreme palpitation .
+</p>
+<p>
+Clink .
+Dear uncle , be pacified .
+We are both of us the votaries of our great master Appollo .
+To you he has assign'd the art of healing : Me he has taught to sing ; why then should we jangle in our kindred faculties ?
+</p>
+<p>
+Fos .
+Appollo , for ought I know , may be a very fine person ; but this I am very sure of , that the skill he has given all his physicians is not sufficient to cure the madness of his poets .
+</p>
+<p>
+Pos .
+Hark ye , brother Fossile ?
+Your Crocodile has proved a human creature , I wish your wife may not prove a crocodile .
+</p>
+<p>
+Naut .
+Hark ye , brother Fossile !
+Your mummy , as you were saying , seemeth to be hot in the first degree , and is powerful in some diseases of women .
+</p>
+<p>
+[ Exit Nautilus and Possum .
+</p>
+<p>
+Fos .
+You diabolical performers of my niece 's masquerade , will it please you to follow those gentlemen ?
+</p>
+<p>
+Clink .
+Nay , Sir , you shall see them dance first .
+</p>
+<p>
+Fos .
+Dance !
+the devil !
+bring me hither a spit , a fire-fork , I 'll try whether the monsters are impenetrable or no .
+</p>
+<p>
+Plotw .
+I hope , Sir , you will not expose us to the fury of the mob , since we came here upon so courteous a design .
+</p>
+<p>
+Foss .
+Good courteous Mr. Mummy , without more ceremony , will it please you to retire to your subterraneous habitation .
+And you Mr. Crocodile , about your business this moment , or you shall change your Nile for the next horse-pond .
+</p>
+<p>
+Clink .
+Spare my masqueraders .
+</p>
+<p>
+Underp .
+Let it never be said that the famous Dr. Fossile , so renowned for his charity to monsters , should violate the laws of hospitality , and turn a poor alligator naked into the street .
+</p>
+<p>
+Foss .
+Deposite your exuviæ then , and assume your human shape .
+</p>
+<p>
+Underp .
+For that I must beg your excuse .
+A gentleman would not chuse to be known in these frolicks .
+</p>
+<p>
+Foss .
+Then out of my doors , here footman , out with him ; out , thou hypocrite , of an alligator .
+</p>
+<p>
+[ Underplot is turn'd out .
+</p>
+<p>
+Sir , the respect I have for catacombs and pyramids , will not protect you .
+</p>
+<p>
+[ A noise of mob within .
+</p>
+<p>
+Enter PRUE .
+</p>
+<p>
+Prue .
+Sir , Sir , lock your doors , or else all your monsters will run home again to the Indies .
+Your crocodile yonder has made his escape ; if he get but to Somerset water-gate , he is gone for ever .
+</p>
+<p>
+[ Exit Prue .
+</p>
+<p>
+Enter a Footman .
+</p>
+<p>
+Foot .
+The herbwoman swore she knew him to be the devil , for she had met him one dark night in St. Pulchre 's church-yard ; then the monster call'd a coach , methought with the voice of a christian ; but a sailor that came by said he might be a crocodile for all that , for crocodiles could cry like children , and was for killing him outright , for they were good to eat in Egypt , but the constable cry'd take him alive , for what if he be an Egyptian , he is still the king 's subject .
+</p>
+<p>
+Ex .
+footman .
+</p>
+<p>
+[ A noise of mob within .
+</p>
+<p>
+Enter PRUE
+</p>
+<p>
+Prue .
+Then he was hurry'd a way by the mob .
+A bull-dog ran away with fix joints of his tail , and the claw of his near foot before : At last by good fortune , to save his life , he fell in with the Hockley in the Hole bull and bear ; the master claim'd him for his monster , and so he is now attended by a vast mob , very solemnly marching to Hockley in the Hole , with the bear in his front , the bull in his rear , and a monkey upon each shoulder .
+</p>
+<p>
+Town .
+Mr. Mummy , you had best draw the curtains of your chair , or the mob 's respect for the dead will scarce protect you .
+</p>
+<p>
+[ Exit Plotwell in a chair .
+</p>
+<p>
+Clink .
+My concern for him obliges me to go see that he gets off safe , lest any further mischief befalls the persons of our masque .
+</p>
+<p>
+[ Exit Clinket .
+</p>
+<p>
+Fos .
+Sweetly , Horace .
+Nunquam satis , and so forth .
+A man can never be too cautious .
+Madam , sit down by me .
+Pray how long is it since you and I have been married ?
+</p>
+<p>
+Town .
+Near three hours , Sir .
+</p>
+<p>
+Fos .
+And what anxieties has this time produc'd ?
+the dangers of divorce !
+calumniatory letters !
+lewd fellows introduc'd by my niece !
+groundless jealousies on both sides !
+even thy virginity put to the touch-stone !
+but this last danger I plung'd thee in myself ; to leave thee in the room with two such robust young fellows .
+</p>
+<p>
+Town .
+Ay , with two young fellows !
+but my dear , I know you did it ignorantly .
+</p>
+<p>
+Fos .
+This is the first blest minute of repose that I have enjoy'd in matrimony .
+Dost thou know the reason , my dear , why I have chosen thee of all womankind ?
+</p>
+<p>
+Town .
+My face , perhaps .
+</p>
+<p>
+Fos .
+No .
+</p>
+<p>
+Town .
+My wit ?
+</p>
+<p>
+Fos .
+No .
+</p>
+<p>
+Town .
+My virtue and good humour .
+</p>
+<p>
+Fos .
+No .
+But for the natural conformity of our constitutions .
+Because thou art hot and moist in the third degree , and I myself cold and dry in the first .
+</p>
+<p>
+Town .
+And so nature has coupled us like the elements .
+</p>
+<p>
+Fos .
+Thou hast nothing to do but to submit thy constitution to my regimen .
+</p>
+<p>
+Town .
+You shall find me obedient in all things .
+</p>
+<p>
+Foss .
+It is strange , yet certain , that the intellects of the infant depend upon the suppers of the parents .
+Diet must be prescrib'd .
+</p>
+<p>
+Town .
+So the wit of one 's posterity is determin'd by the choice of one 's cook .
+</p>
+<p>
+Foss .
+Right .
+You may observe how French cooks , with their high ragousts , have contaminated our plain English understandings .
+Our supper to night is extracted from the best authors .
+How delightful is this minute of tranquility !
+my soul is at ease .
+How happy shalt thou make me !
+thou shalt bring me the finest boy !
+</p>
+<p>
+[ A knocking at the door ,
+</p>
+<p>
+No mortal shall enter these doors this day .
+[ knocking again . ]
+Oh , it must be the news of poor lady Hippokekoana 's death .
+Poor woman !
+such is the condition of life , some die , and some are born , and I shall now make some reparation for the mortality of my patients by the fecundity of my wife .
+My dear thou shalt bring me the finest boy !
+</p>
+<p>
+Enter footman .
+</p>
+<p>
+Foot .
+Sir , here 's a seaman from Deptford must needs speak with you .
+</p>
+<p>
+Foss .
+Let him come in .
+One of my retale Indian merchants , I suppose , that always brings me some odd thing .
+</p>
+<p>
+Enter sailor with a child .
+</p>
+<p>
+What hast thou brought me , friend , a young drill ?
+</p>
+<p>
+Sail .
+Look ye d' ye see , master , you know best whether a monkey begot him .
+</p>
+<p>
+Foss .
+A meer human child .
+</p>
+<p>
+Town .
+Thy carelessness , Sarsnet , has exposed me , I am lost and ruin'd .
+O heav ` n !
+heav ` n !
+No , impudence assist me .
+</p>
+<p>
+[ Aside .
+</p>
+<p>
+Foss .
+Is the child monstrous ?
+or dost thou bring him here to take physick ?
+</p>
+<p>
+Sail .
+I care not what he takes so you take him .
+</p>
+<p>
+Foss .
+What does the fellow mean ?
+</p>
+<p>
+Sail .
+Fellow me no fellows .
+My name is Jack Capstone of Deptford , and are not you the man that has the raree-show of oyster-shells and pebble-stones ?
+</p>
+<p>
+Fos .
+What if I am ?
+</p>
+<p>
+Sail .
+Why , then my invoice is right , I must leave my cargo here .
+</p>
+<p>
+Town .
+Miserable woman that I am !
+how shall I support this fight !
+thy bastard brought into thy family as soon as thy bride !
+</p>
+<p>
+Fos .
+Patience , patience , I beseech you .
+Indeed I have no posterity .
+</p>
+<p>
+Town .
+You lascivious brute you .
+</p>
+<p>
+Fos .
+Passion is but the tempestuous cloud that obscures reason ; be calm and I 'll convince you .
+Friend , how come you to bring the infant hither ?
+</p>
+<p>
+Sail .
+My wife , poor woman , could give him suck no longer , for she died yesterday morning .
+There 's a long account , master .
+It was hard to trace him to the fountain-head .
+I steer'd my course from lane to lane , I spoke to twenty old women , and at last was directed to a ribbon-shop in Covent-Garden , and they sent me hither , and so take the bantling and pay me his clearings .
+</p>
+<p>
+[ Offers him the child .
+</p>
+<p>
+Fos .
+I shall find law for you , sirrah .
+Call my neighbour Possum , he is a justice of peace , as well as a physician .
+</p>
+<p>
+Town .
+Call the man back .
+If you have committed one folly , do n't expose yourself by a second .
+</p>
+<p>
+Sail .
+The gentlewoman says well .
+Come , master , we all know that there is no boarding a pretty wench , without charges one way or other ; you are a doctor , master , and have no surgeons bills to pay ; and so can the better afford it .
+</p>
+<p>
+Town .
+Rather than you should bring a scandal on your character , I will submit to be a kind mother-in-law .
+</p>
+<p>
+Enter Justice Possum , and Clerk .
+</p>
+<p>
+Fos .
+Mr. justice Possum , for now I must so call you , not brother Possum ; here is a troublesome fellow with a child , which he would leave in my house .
+</p>
+<p>
+Pos .
+Another man 's child ?
+he can not in law .
+</p>
+<p>
+Fos .
+It seemeth to me to be a child unlawfully begotten .
+</p>
+<p>
+Pos .
+A bastard !
+who does he lay it to ?
+</p>
+<p>
+Fos .
+To our family .
+</p>
+<p>
+Pos .
+Your family , quatenus a family , being a body collective , can not get a bastard .
+Is this child a bastard , honest friend ?
+</p>
+<p>
+Sail .
+I was neither by when his mother was show'd , nor when she was unladen ; whether he belong to a fair trader , or be run goods , I can not tell : In short here I was sent , and here I will leave him .
+</p>
+<p>
+Pos .
+Dost then know his mother , friend ?
+</p>
+<p>
+Sail .
+I am no midwife , master ; I did not see him born .
+</p>
+<p>
+Pos .
+You had best put up this matter , doctor .
+A man of your years , when he has been wanton , can not be too cautious .
+</p>
+<p>
+Fos .
+This is all from the purpose .
+I was married this morning at seven ; let any man in the least acquainted with the powers of nature , judge whether that human creature could be conceiv'd and brought to maturity in one forenoon .
+</p>
+<p>
+Pos .
+This is but talk , doctor Fossile .
+It is well for you , though I say it , that you have fallen into the hands of a person , who has study'd the civil and canon law in the point of bastardy .
+The child is either yours or not yours .
+</p>
+<p>
+Foss .
+My child , Mr. Justice !
+</p>
+<p>
+Pos .
+Look ye , doctor Fossile , you confound filiation with legitimation .
+Lawyers are of opinion , that filiation is necessary to legitimation , but not è contra .
+</p>
+<p>
+[ The child cries
+</p>
+<p>
+Foss .
+I would not starve any of my own species , get the infant some water-pap .
+But Mr. Justice --
+</p>
+<p>
+Pos .
+The proofs , I say , doctor , of filiation are five .
+Nomination enunciatively pronounc'd , strong presumptions , and circumstantial proofs --
+</p>
+<p>
+Foss .
+What is all this to me ?
+I tell you I know nothing of the child .
+</p>
+<p>
+Pos .
+Signs of paternal piety , similitude of features , and commerce with the mother .
+And first of the first , nomination .
+Has the doctor ever been heard to call the infant , son ?
+</p>
+<p>
+Town .
+He has call'd him child , since he came into this room .
+You have indeed , Mr. Fossile .
+</p>
+<p>
+Pos .
+Bring hither the doctor 's great bible .
+-- Let us examine in the blank leaf whether he be enroll'd among the rest of his children .
+</p>
+<p>
+Foss .
+I tell you , I never had any children .
+I shall grow distracted , I shall --
+</p>
+<p>
+Pos .
+But did you give any orders against registring the child by the name of Fossile ?
+</p>
+<p>
+Foss .
+How was it possible ?
+</p>
+<p>
+Pos .
+Set down that , clerk .
+He did not prohibit the registring the child in his own name .
+We our selves have observed one sign of fatherly tenderness ; clerk , set down the water-pap he order'd just now .
+Come we may --
+</p>
+<p>
+Foss .
+What a jargon is this !
+</p>
+<p>
+Pos .
+Come we now , I say , to that which the lawyers call magnum naturæ argumentum , similitude of features .
+Bring hither the child , friend ; Dr. Fossile , look upon me .
+The unequal circle of the infant 's face , somewhat resembles the inequality of the circumference of your countenance ; he has also the vituline or calf-like concavity of the profile of your visage .
+</p>
+<p>
+Foss .
+Pish .
+</p>
+<p>
+Pos .
+And he is somewhat beetle-brow'd , and his nose will rise with time to an equal prominence with the doctor 's .
+</p>
+<p>
+Town .
+Indeed he has somewhat of your nose Mr. Fossile .
+</p>
+<p>
+Foss .
+Ridiculous !
+</p>
+<p>
+Town .
+The child is comely .
+</p>
+<p>
+Pos .
+Consider the large aperture of his mouth .
+</p>
+<p>
+Sail .
+Nay , the tokens are plain enough .
+I have the fellow of him at home ; but my wife told me two days ago , that this with the wall-eye and splay-foot belong'd to you , Sir .
+</p>
+<p>
+[ Prue runs a-cross the stage with a letter , which Fossile snatches from her .
+</p>
+<p>
+Fos .
+Whither are you going so fast , hussy ?
+I will examine every thing within these walls .
+[ Exit Prue . ]
+[ reads . ]
+` For Richard Plotwell , esq ; ' This letter unravels the whole affair : As she is an unfortunate relation of mine , I must beg you would act with discretion .
+</p>
+<p>
+[ Gives Possum the letter .
+</p>
+<p>
+Pos .
+[ reads ]
+</p>
+<p>
+` Sir , the child which you father'd is return'd back upon my hands .
+Your Drury-lane friends have treated me with such rudeness , that they told me in plain terms I should be damn'd .
+How unfortunate soever my offspring is , I hope you at least will defend the reputation of the unhappy
+</p>
+<p>
+` Phoebe Clinket . '
+</p>
+<p>
+-- As you say , doctor , the case is too plain ; every circumstance hits .
+</p>
+<p>
+Enter CLINKET .
+</p>
+<p>
+Clink .
+'T is very uncivil , Sir , to break open one 's letters .
+</p>
+<p>
+Foss .
+Would I had not ; and that the contents of it had been a secret to me and all mankind for ever .
+Wretched creature , to what a miserable condition has thy poetry reduc'd thee !
+</p>
+<p>
+Clink .
+I am not in the least mortified with the accident .
+I know it has happen'd to many of the most famous daughters of Apollo ; and to myself several times .
+</p>
+<p>
+Foss .
+I am thunderstruck at her impudence !
+several times !
+</p>
+<p>
+Clink .
+I have had one returned upon my hands every winter for these five years past .
+I may perhaps be excell'd by others in judgment and correctness of manners , but for fertility and readiness of conception , I will yield to nobody .
+</p>
+<p>
+Foss .
+Bless me , whence had she this luxuriant constitution !
+</p>
+<p>
+Pos .
+Patience , Sir .
+Perhaps the lady may be married .
+</p>
+<p>
+Town .
+Tis infamous , Mr. Fossile , to keep her in your house ; yet though you turn her out of doors , use her with some humanity ; I will take care of the child .
+</p>
+<p>
+Clink .
+I can find no Denoüement of all this conversation .
+Where is the crime , I pray , of writing a tragedy ?
+I sent it to Drury-Lane house to be acted ; and here it is return'd by the wrong goùt of the actors .
+</p>
+<p>
+Pos .
+This incident has somewhat embarrassed us .
+But what mean you here , madam , by this expression ?
+Your offspring .
+</p>
+<p>
+Clink .
+My tragedy , the offspring of my brain .
+One of his majesty 's justices of the peace , and not understand the use of the metaphor !
+</p>
+<p>
+Pos .
+Doctor , you have used much artifice , and many demurrers ; but the child must lie at your door at last .
+Friend , speak plain what thou knowest of this matter .
+</p>
+<p>
+Foss .
+Let me relate my story .
+This morning , I married this lady , and brought her from her lodgings , at Mrs. Chambers 's , in King-street , Covent-Garden .
+</p>
+<p>
+Sail .
+Mrs. Chambers !
+To that place I was directed , where liv'd the maid that put the bantling out to be nurs'd by my wife for her lady ; and who she was , 't is none of our business to enquire .
+</p>
+<p>
+Pos .
+Dost thou know the name of this maid ?
+</p>
+<p>
+Sail .
+Let me consider -- Lutestring .
+</p>
+<p>
+Foss .
+Sarsnet , thou mean ` st.
+</p>
+<p>
+Sail .
+Sarsnet , that 's right .
+</p>
+<p>
+Town .
+I 'll turn her out of my house this moment , Filthy creature !
+</p>
+<p>
+Pos .
+The evidence is plain .
+You have cohabitation with the mother , doctor , currat lex .
+And you must keep the child .
+</p>
+<p>
+Foss .
+Your decree is unjust , Sir , and I 'll seek my remedy at law .
+As I never was espoused , I never had carnal knowledge of any woman ; and my wife , Mrs. Susanna Townley , is a pure virgin at this hour for me .
+</p>
+<p>
+Pos .
+Susanna Townley !
+Susannah Townley !
+Look how runs the warrant you drew up this morning .
+</p>
+<p>
+[ Clerk gives him a paper .
+</p>
+<p>
+Madam , a word in private with you .
+[ whispers her ] Doctor , my Lord Chief Justice has some business with this lady .
+</p>
+<p>
+Foss .
+My Lord Chief Justice business with my wife !
+</p>
+<p>
+Pos .
+To be plain with you , doctor Fossile , you have for these three hours entertain'd another man 's wife .
+Her husband , lieutenant Bengal , is just returned from the Indies , and this morning took out a warrant from me for an elopement ; it will be more for your credit to part with her privately , than to suffer her publickly to be carried off by a tipstaff .
+</p>
+<p>
+Foss .
+Surprizing have been the events of this day ; but this , the strangest of all , settles my future repose .
+Let her go -- I have not dishonoured the bed of lieutenant Bengal -- Hark ye friend !
+Do you follow her with that badge of her infamy .
+</p>
+<p>
+Pos .
+By your favour , doctor , I never reverse my judgment .
+The child is yours : for it can not belong to a man who has been three years absent in the East-Indies .
+Leave the child .
+</p>
+<p>
+Sail .
+I find you are out of humour , master .
+So I 'll call to-morrow for his clearings .
+</p>
+<p>
+[ Sailor lays down the child , and exit with Possum , Clerk , and Townley . ]
+</p>
+<p>
+Clink .
+Uncle , by this day 's adventure , every one has got something .
+Lieutenant Bengal has got his wife again ; you a fine child ; and I a plot for a comedy ; and I 'll this moment set about it .
+</p>
+<p>
+[ Exit Clinket .
+</p>
+<p>
+Foss .
+What must be , must be .
+[ takes up the child . ]
+Fossile , thou didst want posterity : Here behold thou hast it .
+A wife thou didst not want ; thou hast none .
+But thou art caressing a child that is not thy own .
+What then ?
+a thousand , and a thousand husbands are doing the same thing this very instant ; and the knowledge of truth is desirable , and makes thy case the better , What signifies whether a man beget his child or not ?
+How rediculous is the act itself , said the great emperor Antoninus !
+I now look upon myself as a Roman citizen ; it is better that the father should adopt the child , than that the wife should adopt the father .
+</p>
+<p>
+[ Exit Fossile .
+</p>
+<p>
+EPILOGUE .
+</p>
+<p>
+Spoke by Mrs. OLDFIELD .
+</p>
+<p>
+The ancient Epilogue , as criticks write , Was , Clap your hands , excuse us , and good-night .
+The modern always was a kind essay To reconcile the audience to the play : More polish'd , we of late have learn'd to fly At parties , treaties , nations , ministry .
+Our author more genteelly leaves these brawls To coffee-houses , and to coblers stalls .
+His very monsters are of sweet condition , None but the Crocodile 's a politician ; He reaps the blessings of his double nature , And , Trimmer like , can live on land or water : Yet this same monster should be kindly treated , He lik'd a lady 's flesh -- but not to eat it .
+</p>
+<p>
+As for my other spark , my favourite Mummy , His feats were such , smart youths !
+as might become ye ; Dead as he seem'd , he had sure signs of life ; His hieroglyphicks pleas'd the doctor 's wife .
+</p>
+<p>
+Whom can our well-bred poetess displease ?
+She writ like quality -- with wond ` rous ease : All her offence was harmless want of wit ; Is that a crime ?
+-- ye powers , preserve the pit .
+</p>
+<p>
+My doctor too , to give the devil his due , When every creature did his spouse pursue , ( Men sound in living , bury'd flesh , dry'd fish , ) Was e ` en as civil as a wife could wish .
+Yet he was somewhat saucy with his viol ; What !
+put young maids to that unnat ` ral trial !
+So hard a test !
+why , if you needs will make it , Faith , let us marry first , -- and then we 'll take it .
+</p>
+<p>
+Who could be angry , though like Fossile teaz'd ?
+Consider , in three hours , the man was eas'd .
+How many of you are for life beguil'd , And keep as well the mother , as the child !
+None but a Tar could be so tender-hearted , To claim a wife that had been three years parted ; Would you do this , my friends ?
+-- believe me , never !
+When modishly you part -- you part for ever .
+</p>
+<p>
+Join then your voices , be the play excus'd For once , though no one living is abus'd ; To that bright circle that commands our duties , To you superior eighteen-penny beauties , To the lac'd hat and cockard of the pit , { To all , in one word , we our cause submit , { Who think good breeding is a-kin to wit . {
+</p>
+</text>
